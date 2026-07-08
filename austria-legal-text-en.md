@@ -4,7 +4,7 @@ country: Austria
 document_name: Austria Legal Text EN.pdf
 source_file: Austria Legal Text EN.pdf
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Legal Text EN.pdf
-extracted_date: 2026-07-07
+extracted_date: 2026-07-08
 jurisdiction: Austria
 description: Ministerial draft text of a federal act amending the Austrian Gambling Act and the Telecommunications Act 2021.
 regulatory_body: Federal Minister of Finance
@@ -44,7 +44,7 @@ e) In the last sentence of paragraph 3, the punctuation mark at the end is repla
 
 (a) in paragraph 5, the amount of 'EUR 4 000' is replaced by the amount of 'EUR 10 000';
 
-b) In the fourth sentence of subparagraph 6, the phrase "from 1 January 2011" shall be deleted and the phrase "the Austrian tax office" shall be replaced by the phrase "**the gambling supervisory authority**".
+b) In the fourth sentence of subparagraph 6, the phrase "from 1 January 2011" shall be deleted and the phrase "the Austrian tax office" shall be replaced by the phrase "the gambling supervisory authority".
 
 ### 4. Paragraph 5 shall be amended as follows:
 
@@ -54,8 +54,7 @@ b) In the fourth sentence of subparagraph 6, the phrase "from 1 January 2011" sh
 >
 > The installation of a maximum of three gaming machines in the business premises of a contractual partner of the licence holder is permissible if these take place in a spatially delimited place where minors are not admitted. In this case, the contractual partner of the licence holder must fulfil the obligations imposed at the permanent establishment.
 >
-> In this context, a maximum permissible ratio of one gaming machine per 1,200 inhabitants in total may not be exceeded in the federal state and the number of valid licences to operate gambling machines is limited to a maximum of three per federal state. The number of inhabitants of a federal state is determined on the basis of the result of the population statistics or the population census as of 31 October as of the reference date of 31 October, which was most recently determined and published by the Federal Institute of Statistics Austria for the respective financial equalisation, whereby the last published result at the time of the granting of authorisations is decisive; an adjustment can be made in the case of
-> change in the number of inhabitants shall be determined upon application or ex officio.'
+> In this context, a maximum permissible ratio of one gaming machine per 1,200 inhabitants in total may not be exceeded in the federal state and the number of valid licences to operate gambling machines is limited to a maximum of three per federal state. The number of inhabitants of a federal state is determined on the basis of the result of the population statistics or the population census as of 31 October as of the reference date of 31 October, which was most recently determined and published by the Federal Institute of Statistics Austria for the respective financial equalisation, whereby the last published result at the time of the granting of authorisations is decisive; an adjustment can be made in the case of change in the number of inhabitants shall be determined upon application or ex officio.'
 
 (b) In subparagraph 2(4), the phrase 'the operators of slot machine parlors' shall be replaced by the phrase 'licence holders for Land lotteries with gaming machines'.
 
@@ -69,8 +68,7 @@ b) In the fourth sentence of subparagraph 6, the phrase "from 1 January 2011" sh
 > 4. the display of the mathematically determined prize payout ratio of the respective gaming programme at the selected stake size on the gaming machine, whereby this must be in a range of 85 to 95 % on the basis of an infinite series of individual games and may only be changed after prior notification to the competent Land authority; if the player is offered different odds to choose from in a game program, none of these odds may be more than 95% on its own, based on an infinite series of individual games;
 > 5. the prohibition of game content with aggressive, violent, criminal, racist or pornographic depictions;
 > 6. the possibility for players to inspect a German version of the game descriptions of all games of the gaming machines at any time;
-> 7. the observance of a minimum distance of 15 kilometres as the crow flies or, in municipalities with more than 500 000 inhabitants, of 2 kilometres as the crow flies for permanent establishments within the meaning of subparagraph 1 with more than 15 gaming machines to the location of a casino, whereby the distance between a permanent establishment within the meaning of subparagraph 1 does not have to be more than 2 kilometres as the crow flies in a municipality with more than 500 000 inhabitants on the territory of that municipality; in addition, within a radius of 300 metres or in municipalities with more than 10,000 inhabitants of 150 metres as the crow flies of a permanent establishment within the meaning of subsection (1) with more than 15 gaming machines, no further business establishment within the meaning of subsection (1) with more than 15 gaming machines may be opened; finally, between the permanent establishment within the meaning of paragraph 1 of the same
-> permit holder, a minimum distance of 100 metres of pavement must be maintained in any case; the number of inhabitants of the municipalities shall be based on the result of the last census published by the Federal Institute for Statistics Austria;
+> 7. the observance of a minimum distance of 15 kilometres as the crow flies or, in municipalities with more than 500 000 inhabitants, of 2 kilometres as the crow flies for permanent establishments within the meaning of subparagraph 1 with more than 15 gaming machines to the location of a casino, whereby the distance between a permanent establishment within the meaning of subparagraph 1 does not have to be more than 2 kilometres as the crow flies in a municipality with more than 500 000 inhabitants on the territory of that municipality; in addition, within a radius of 300 metres or in municipalities with more than 10,000 inhabitants of 150 metres as the crow flies of a permanent establishment within the meaning of subsection (1) with more than 15 gaming machines, no further business establishment within the meaning of subsection (1) with more than 15 gaming machines may be opened; finally, between the permanent establishment within the meaning of paragraph 1 of the same permit holder, a minimum distance of 100 metres of pavement must be maintained in any case; the number of inhabitants of the municipalities shall be based on the result of the last census published by the Federal Institute for Statistics Austria;
 > 8. compliance with the provisions of Section 25 (3) mutatis mutandis;
 > 9. the submission of a gambling addiction potential analysis for each game of chance covered by the licence;
 > 10. a binding setting of monetary and temporal maximum values per day, week and month by gamblers (self-limitation), whereby increases only take effect immediately after the expiry of 72 hours and reductions;
@@ -104,18 +102,18 @@ k) In paragraph 9, the phrase "betting operator and" shall be deleted.
 
 ### 5. Paragraphs 12a, 12b and 13 read as follows, together with the headings:
 
-#### Bingo and Keno
+### **Bingo and Keno**
 
 **Section 12a.** Bingo and Keno are draws in which an organiser accepts and executes bets on the odds of winning number combinations, whereby winnings are achieved by the players by matching the corresponding number combinations with the determined winning numbers.
 
-#### Multi-stage playouts
+### **Multi-stage playouts**
 
 **§ 12b.**
 (1) Multi-stage lotteries are games of chance in which the players can obtain another chance of winning in addition to a possible win.
 
 (2) The draws pursuant to §§ 6 to 12a may be carried out in one or more stages.
 
-#### Online Gambling
+### **Online Gambling**
 
 **§ 13.**
 (1) Online games of chance are lotteries, with the exception of certain lotteries pursuant to §§ 6 to 12a, in which participation in the game is carried out directly by the player via electronic media and the decision on the outcome of the game is brought about centrally and made available via electronic media and which are not offered at fixed business premises. The provisions of Section 25 (3) shall apply mutatis mutandis.
@@ -130,7 +128,7 @@ k) In paragraph 9, the phrase "betting operator and" shall be deleted.
 
 a) The heading reads:
 
-**'Transmission of certain lotteries and online gambling'**
+> 'Transmission of certain lotteries and online gambling'
 
 (b) The first to third sentences of paragraph 1 shall read:
 
@@ -138,36 +136,30 @@ a) The heading reads:
 
 c) In paragraph 1, the words 'The Austrian Tax Office' shall be replaced by the words 'The Gambling Supervisory Authority'.
 
-d) In subparagraph 2(3), the phrase 'EUR 109 million' is replaced by the phrase 'EUR 100 million in the in the case of a licence pursuant to the first sentence of paragraph 1 (**Certain lotteries**) and at least EUR 10 million in the case of a licence pursuant to the second sentence of Paragraph 14(1) (**online gambling**)'.
+d) In subparagraph 2(3), the phrase 'EUR 109 million' is replaced by the phrase 'EUR 100 million in the case of a licence pursuant to the first sentence of paragraph 1 (**Certain lotteries**) and at least EUR 10 million in the case of a licence pursuant to the second sentence of Paragraph 14(1) (**online gambling**)'.
 
 (e) The following paragraphs 2a and 2b shall be inserted:
 
-> '(2a) The fact that an applicant for a licence has organised prohibited lotteries in the form of online games of chance for the purpose of participating from within Germany, or applies for the licence in connection with such an organisation of prohibited lotteries for participation from Germany using a trade mark or a sign which has been held in connection with such an organisation of prohibited lotteries for participation from Germany, shall not constitute the grant of a licence
-> with regard to reliability in terms of regulatory policy (§ 14 para. 2 no. 4) under the following conditions.
+> '(2a) The fact that an applicant for a licence has organised prohibited lotteries in the form of online games of chance for the purpose of participating from within Germany, or applies for the licence in connection with such an organisation of prohibited lotteries for participation from Germany using a trade mark or a sign which has been held in connection with such an organisation of prohibited lotteries for participation from Germany, shall not constitute the grant of a licence with regard to reliability in terms of regulatory policy (§ 14 para. 2 no. 4) under the following conditions.
 >
 > 1. All amounts of gambling tax that were previously due and not yet time-barred pursuant to Section 57 (2) were paid in due time by the licence applicant or the owner of a trademark or a sign within the meaning of Section 57 (2a). This requirement shall also be deemed to be fulfilled if, prior to the expression of interest, the licence applicant has fully disclosed and paid all outstanding amounts of duties due in accordance with Section 29 of the FinStrG, as well as has submitted all records of stakes made, winnings paid out and bonuses granted in a form that enables electronic verification and evaluation.
 > 2. All final judgments on the merits of domestic civil courts which have been obtained in the past by gamblers against the applicant for the concession or the proprietor of a trademark or a sign within the meaning of subsection (2a) must have been complied with. Newly issued judgments within the meaning of the first sentence must be complied with within an open performance period until the licence is granted.
-> 3. The organisation of prohibited lotteries for participation from Germany must have been discontinued by the licence applicant or the owner of a trademark or a sign within the meaning of subsection (2a) from 1 January 2027 and until a licence is granted pursuant to Section 14 (1) second sentence (**online gambling**) ("cooling-off period"). If the organisation of prohibited lotteries is discontinued after 30 December 2026, the
-> Licence applicants shall be excluded from the grant of a licence pursuant to the second sentence of paragraph 1 (**online gambling**) for a period of 18 months from the cessation of organising the event, but if the cessation does not take place until after 31 December 2029, for a period of 24 months from the cessation of the organisation ("blocking period"). The legal consequences prescribed in subsections 2a and 2b remain unaffected by this;
+> 3. The organisation of prohibited lotteries for participation from Germany must have been discontinued by the licence applicant or the owner of a trademark or a sign within the meaning of subsection (2a) from 1 January 2027 and until a licence is granted pursuant to Section 14 (1) second sentence (**online gambling**) ("cooling-off period"). If the organisation of prohibited lotteries is discontinued after 30 December 2026, the Licence applicants shall be excluded from the grant of a licence pursuant to the second sentence of paragraph 1 (**online gambling**) for a period of 18 months from the cessation of organising the event, but if the cessation does not take place until after 31 December 2029, for a period of 24 months from the cessation of the organisation ("blocking period"). The legal consequences prescribed in subsections 2a and 2b remain unaffected by this;
 >
 > (2b) The following shall apply to the fulfilment of the requirements under subsection (2a):
 >
 > 1. Legal entities affiliated with the licence applicant up to and including the beneficial owner are treated in the same way as the licence applicant in accordance with § 2 WiEReG.
-> 2. If the trade mark or a sign within the meaning of subsection (2a) is only slightly modified or supplemented or used in combination with other elements that give a
-> likelihood of confusion, it shall continue to be regarded as a trade mark or a sign within the meaning of subsection (2a);
+> 2. If the trade mark or a sign within the meaning of subsection (2a) is only slightly modified or supplemented or used in combination with other elements that give a likelihood of confusion, it shall continue to be regarded as a trade mark or a sign within the meaning of subsection (2a);
 > 3. At the time of the expression of interest, the licence applicant must submit an affidavit that all gambling taxes within the meaning of subsection 2a no. 1 have been paid in full and will continue to be paid until the licence is granted, that all relevant performance judgments (para. 2a no. 2) have been fully complied with and will continue to be fulfilled until the licence is granted, and that the organisation of prohibited lotteries in accordance with para. 2a no. 3 ("Declaration of Conformity").
 > 4. Together with the declaration of conformity, all legal entities relevant at the time of the expression of interest must be disclosed. Subsequent changes in the relevant circumstances must be reported immediately until the licence is granted.
-> 5. The gambling supervisory authority must inform the public in the digital Official Gazette of the Republic of Austria (www.evi.gv.at) about the identity of the licence applicant and the legal entities disclosed by him as well as trademarks or trademarks; on the beneficial owner, however, only if there is reason to believe that he has also organised games of chance himself. Any subsequent changes must be published in the same way by the gambling supervisory authority until the licence is granted. The gambling supervisory authority must receive indications that the content of the declaration of conformity was incorrect or that it has been violated and
-> licensing procedures (no. 6).
+> 5. The gambling supervisory authority must inform the public in the digital Official Gazette of the Republic of Austria (www.evi.gv.at) about the identity of the licence applicant and the legal entities disclosed by him as well as trademarks or trademarks; on the beneficial owner, however, only if there is reason to believe that he has also organised games of chance himself. Any subsequent changes must be published in the same way by the gambling supervisory authority until the licence is granted. The gambling supervisory authority must receive indications that the content of the declaration of conformity was incorrect or that it has been violated and licensing procedures (no. 6).
 > 6. If it becomes apparent during the licensing procedure that the declaration of conformity was incorrect in terms of content or that the declaration of conformity has been violated, the legal consequence under subsection 2a does not apply, unless the infringement was minor.
 > 7. If, after the licence has been granted, it becomes apparent that the content of the declaration of conformity was incorrect or that it had been violated by the time the licence was granted, the licence must be revoked by the gambling supervisory authority, unless the infringement was minor.
-> 8. An instalment payment in the context of insolvency proceedings (bankruptcy proceedings), a restructuring plan, a payment plan or in the context of a comparable statutory debt settlement measure in Germany or abroad does not constitute complete fulfilment within the meaning of subsection (2a). This shall also apply if the assets of the predecessor company are subject to a
-> insolvency proceedings have been opened or no insolvency proceedings have been opened due to a lack of assets covering costs, or the predecessor company has been dissolved or liquidated.'
+> 8. An instalment payment in the context of insolvency proceedings (bankruptcy proceedings), a restructuring plan, a payment plan or in the context of a comparable statutory debt settlement measure in Germany or abroad does not constitute complete fulfilment within the meaning of subsection (2a). This shall also apply if the assets of the predecessor company are subject to a insolvency proceedings have been opened or no insolvency proceedings have been opened due to a lack of assets covering costs, or the predecessor company has been dissolved or liquidated.'
 
 f) In paragraph 3, the following fourth sentence shall be inserted:
 
-> "The enforcement of final judgments of Austrian civil courts against the interested party must be carried out in the
-> State of domicile (**reservation of enforcement**)."
+> "The enforcement of final judgments of Austrian civil courts against the interested party must be carried out in the State of domicile (reservation of enforcement)."
 
 g) In paragraph 3, the words 'to the Austrian tax office' shall be replaced by the words 'the Gambling Supervisory Authority'.
 
@@ -177,8 +169,7 @@ h) In paragraph 3, the following sentence shall be added at the end:
 
 (i) The first sentence of paragraph 4 reads as follows:
 
-> 'In the event of nullity, the licence shall be granted in writing, and may be accompanied by ancillary provisions if this is in the public interest, in particular of the public interest.
-> protection of players, the safeguarding of the payment of the licence and gambling fees and the avoidance of circumvention of the licence requirements under subparagraphs 2 to 3.'
+> 'In the event of nullity, the licence shall be granted in writing, and may be accompanied by ancillary provisions if this is in the public interest, in particular of the public interest. protection of players, the safeguarding of the payment of the licence and gambling fees and the avoidance of circumvention of the licence requirements under subparagraphs 2 to 3.'
 
 j) Paragraph 4(1) reads as follows:
 
@@ -201,9 +192,7 @@ k) Paragraph 4(3) and (4) read:
 > 1. order the concessionaire, on pain of a periodic penalty of EUR 30 000 per day, to restore the relevant situation within such a period of time as is appropriate for the performance of its duties and in the interests of the participants; the total amount of the periodic penalties imposed may not exceed EUR 750 000;
 > 2. in the case of continuation, if it is no longer possible to proceed in accordance with no. 1, and in the event of a repeat offence, to prohibit the managing directors of the concessionaire from managing the company in whole or in part;
 >
-> (8) Who as Concessionaire the Regulations this Federal Act or of the
-> licence decision (subsection 1) or other decisions or ordinances issued on the basis of this Federal Act commits an administrative offence and shall be punished by the Gaming Supervisory Authority with a fine of up to EUR 1 000 000. The gambling supervisory authority may refrain from punishing if it is to be expected that the
-> can be remedied by the supervisory measures to be taken pursuant to subparagraph 6(1) and (2).'
+> (8) Who as Concessionaire the Regulations this Federal Act or of the licence decision (subsection 1) or other decisions or ordinances issued on the basis of this Federal Act commits an administrative offence and shall be punished by the Gaming Supervisory Authority with a fine of up to EUR 1 000 000. The gambling supervisory authority may refrain from punishing if it is to be expected that the can be remedied by the supervisory measures to be taken pursuant to subparagraph 6(1) and (2).'
 
 ### 7. Paragraph 15 shall be amended as follows:
 
@@ -236,8 +225,7 @@ b) In paragraph 7, the words 'electronic lotteries outside video lottery termina
 >
 > When awarding the contract, particular consideration shall be given to the business acumen required for satisfactory distribution, the availability of fully appropriate business premises and the favourable location of the location. The concessionaire must draft contracts for distribution in a uniform manner. Equal conditions with regard to the amount of remuneration and the other contents of the contract must be ensured according to objective criteria. These provisions may not be deviated from by individual agreement or general terms and conditions. Deviating, supplementary or different regulations are inadmissible and ineffective.
 >
-> Deviations from these provisions or a change in the sales structure in accordance with Section 14 (4) (3) are the Gambling Regulatory Authority in writing justified . Provided that the gambling supervisory authority does not expressly refrain from prohibiting it, changes can be made after three months at the earliest. The gambling supervisory authority shall prohibit the intended change in whole or in part by means of a decision if the intended change is necessary to cover or maintain an effective and nationwide distribution network.
-> is not necessary or if the contracting parties to be treated as a matter of priority suffer a direct economic disadvantage as a result of an amendment."
+> Deviations from these provisions or a change in the sales structure in accordance with Section 14 (4) (3) are the Gambling Regulatory Authority in writing justified. Provided that the gambling supervisory authority does not expressly refrain from prohibiting it, changes can be made after three months at the earliest. The gambling supervisory authority shall prohibit the intended change in whole or in part by means of a decision if the intended change is necessary to cover or maintain an effective and nationwide distribution network. is not necessary or if the contracting parties to be treated as a matter of priority suffer a direct economic disadvantage as a result of an amendment."'
 
 (d) The following paragraph 15 shall be added:
 
@@ -261,9 +249,7 @@ b) In subparagraph 3, the phrase 'The Federal Minister of Finance' shall be repl
 
 c) Paragraph 4 reads as follows:
 
-> '(4) If an acquisition subject to authorisation under this provision is carried out without the consent of the Gambling Supervisory Authority or shall enter into force after the approval of the
-> Gambling Supervisory Authority shall issue a decision ordering that the voting rights for those shares or other shares held by the shareholders or other members concerned are suspended until the Gaming Supervisory Authority has determined that the acquisition of the shareholding would not have been prohibited or that the
-> reason for the prohibition no longer exists."
+> '(4) If an acquisition subject to authorisation under this provision is carried out without the consent of the Gambling Supervisory Authority or shall enter into force after the approval of the Gambling Supervisory Authority shall issue a decision ordering that the voting rights for those shares or other shares held by the shareholders or other members concerned are suspended until the Gaming Supervisory Authority has determined that the acquisition of the shareholding would not have been prohibited or that the reason for the prohibition no longer exists."
 
 d) In subsection (5), the phrase "the Federal Minister of Finance" shall be replaced by the phrase "the Gambling Supervisory Authority" and the phrase including punctuation marks "in the applicable version" shall be deleted.
 
@@ -271,8 +257,7 @@ d) In subsection (5), the phrase "the Federal Minister of Finance" shall be repl
 
 a) Paragraph 1 reads:
 
-> "The gambling supervisory authority shall monitor the licence holder for compliance with the provisions of this Federal Act or the licence notice or other decisions or ordinances issued on the basis of this Federal Act. For this purpose, bodies of the gambling supervisory authority may inspect the books and writings of the licensee; the gambling supervisory authority may carry out on-the-spot inspections or have them carried out by auditors or other experts and require the concessionaire to provide information on business transactions, the submission of interim financial statements and statements in a specific form and structure; the concessionaire must comply with such requests without delay. Bodies and persons whom the gambling supervisory authority uses to exercise its supervisory right may enter the business premises of the licensee and must identify themselves at the beginning of the official act without being asked to do so by submitting a written audit order. The costs of monitoring shall be borne by the concessionaire; the gambling supervisory authority shall assess the annual personnel and material expenses for the monitoring of the licensee in accordance with the WFAFinAV, Federal Law Gazette II No. 490/2012, as amended by the announcement Federal Law Gazette II No. 221/2024, by means of a notice and require the licensee to pay within 14 days within three months of the end of each quarter. The provisions of this
-> paragraph in its own sphere of influence. The Federal Minister of Finance may participate in supervisory measures and is also entitled to do so on his own initiative; the provisions of this paragraph shall apply mutatis mutandis.'
+> "The gambling supervisory authority shall monitor the licence holder for compliance with the provisions of this Federal Act or the licence notice or other decisions or ordinances issued on the basis of this Federal Act. For this purpose, bodies of the gambling supervisory authority may inspect the books and writings of the licensee; the gambling supervisory authority may carry out on-the-spot inspections or have them carried out by auditors or other experts and require the concessionaire to provide information on business transactions, the submission of interim financial statements and statements in a specific form and structure; the concessionaire must comply with such requests without delay. Bodies and persons whom the gambling supervisory authority uses to exercise its supervisory right may enter the business premises of the licensee and must identify themselves at the beginning of the official act without being asked to do so by submitting a written audit order. The costs of monitoring shall be borne by the concessionaire; the gambling supervisory authority shall assess the annual personnel and material expenses for the monitoring of the licensee in accordance with the WFAFinAV, Federal Law Gazette II No. 490/2012, as amended by the announcement Federal Law Gazette II No. 221/2024, by means of a notice and require the licensee to pay within 14 days within three months of the end of each quarter. The provisions of this paragraph in its own sphere of influence. The Federal Minister of Finance may participate in supervisory measures and is also entitled to do so on his own initiative; the provisions of this paragraph shall apply mutatis mutandis.'
 
 b) In paragraph 4, the words 'to the Austrian tax office' shall be replaced by the words 'the Gambling Supervisory Authority'.
 
@@ -300,9 +285,7 @@ d) In paragraph 3, the words 'to the Austrian tax office' shall be replaced by t
 
 (e) Paragraph 5 reads as follows:
 
-> 'A total of 13 licences within the meaning of paragraph 1 shall be granted, whereby an objectively justified division into several packages shall be permissible. In this context, criteria such as the widest possible coverage of the Austrian population, the tourist potential of a region, socio-demographic and socio-economic conditions and the identification of catchment areas must be taken into account for location specifications to take into account. In the case of the Package Structure
-> is a Minimization competitive pressure between casinos to strengthen player protection
-> and to ensure the best possible balance of value, as well as to include the prognosis of sufficient economic viability."
+> 'A total of 13 licences within the meaning of paragraph 1 shall be granted, whereby an objectively justified division into several packages shall be permissible. In this context, criteria such as the widest possible coverage of the Austrian population, the tourist potential of a region, socio-demographic and socio-economic conditions and the identification of catchment areas must be taken into account for location specifications to take into account. In the case of the Package Structure is a Minimization competitive pressure between casinos to strengthen player protection and to ensure the best possible balance of value, as well as to include the prognosis of sufficient economic viability."
 
 f) In paragraph 6, the words 'the Austrian tax office' shall be replaced by the words 'the Gambling Supervisory Authority'.
 
@@ -326,8 +309,7 @@ j) Paragraph 11 shall be deleted.
 > 2. in the case of continuation, if it is no longer possible to proceed in accordance with no. 1, and in the event of a repeat offence, to prohibit the managing directors of the concessionaire from managing the company in whole or in part;
 > 3. withdraw the licence if other measures under this Federal Act cannot ensure compliance with this Federal Act.
 >
-> (2) Who as Concessionaire the Regulations this Federal Act or of the
-> licence decision (Paragraph 21(1)) or other decisions or regulations issued on the basis of this Federal Law commits an administrative offence and shall be punished by the Gaming Supervisory Authority with a fine of up to EUR 1 000 000. The gambling supervisory authority may refrain from punishing if it is to be expected that the violation of the law can be remedied by the supervisory measures to be taken pursuant to subsection (1)(1) and (2)."
+> (2) Who as Concessionaire the Regulations this Federal Act or of the licence decision (Paragraph 21(1)) or other decisions or regulations issued on the basis of this Federal Law commits an administrative offence and shall be punished by the Gaming Supervisory Authority with a fine of up to EUR 1 000 000. The gambling supervisory authority may refrain from punishing if it is to be expected that the violation of the law can be remedied by the supervisory measures to be taken pursuant to subsection (1)(1) and (2)."'
 
 ### 16. Paragraph 24 shall be amended as follows:
 
