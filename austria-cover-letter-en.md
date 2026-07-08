@@ -3,10 +3,10 @@ source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory R
 country: Austria
 document_name: Austria Cover Letter EN.pdf
 source_file: Austria Cover Letter EN.pdf
-source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory%20Repository/Rest%20of%20World/Austria/1.%20Legislation/Austria%20Cover%20Letter%20EN.pdf
-extracted_date: 2026-07-07
+source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Cover Letter EN.pdf
+extracted_date: 2026-07-08
 jurisdiction: Austria
-description: Cover letter to the ministerial draft on the Gambling Reform Act 2026 and amendments to the Gambling Act and the Telecommunications Act 2021, including distribution list and signature verification information.
+description: Cover letter from the Federal Ministry of Finance transmitting the draft Gambling Reform Act 2026 and requesting comments by 15 July 2026.
 regulatory_body: Federal Ministry of Finance
 ---
 
@@ -47,7 +47,7 @@ For the Federal Minister:
 Mag.Dr. Angelika Schätz  
 Electronically manufactured
 
-## 125/ME XXVIII GP - Ministerial Draft - Cover Letter
+# 125/ME XXVIII GP - Ministerial Draft - Cover Letter
 
 2 by 4
 
@@ -95,7 +95,7 @@ s.blahut@gewerbeverein.at; grundsatz@oegb.at; office@oiav.at;
 
 3 of 4
 
-## 125/ME XXVIII GP - Ministerial Draft - Cover Letter
+# 125/ME XXVIII GP - Ministerial Draft - Cover Letter
 
 3 by 4
 
@@ -140,13 +140,14 @@ office.vaoe@aon.at; verband@gbv.at; sabine.kirchmayr@univie.ac.at;
 claus.staringer@wu.ac.at; recht@oebfa.at; office@stiftungsverband.at;  
 daniela.hohenwarter@univie.ac.at; behoerde@apab.gv.at; Post.vii-2@bka.gv.at;
 
-4 of 4  
+4 of 4
+
 pea@casinos.at; pea@lotterien.at; post.gluecksspielmonopol@bmf.gv.at;  
 office@admiral.at; office@e-e.ag; office@pa-ag.at; office@amatic.com; office@fgames.at;  
 office@panthergaming.at; post.a2@bgld.gv.at; abt7.gluecksspiel@ktn.gv.at;  
 post.ivw1@noel.gv.at; pol.ikd.post@ooe.gv.at; gewerbe@salzburg.gv.at; psv@stmk.gv.at;
 
-## 125/ME XXVIII GP - Ministerial Draft - Cover Letter
+# 125/ME XXVIII GP - Ministerial Draft - Cover Letter
 
 4 by 4
 
