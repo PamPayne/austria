@@ -4,7 +4,7 @@ country: Austria
 document_name: Austria Brief Info EN.pdf
 source_file: Austria Brief Info EN.pdf
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory%20Repository/Rest%20of%20World/Austria/1.%20Legislation/Austria%20Brief%20Info%20EN.pdf
-extracted_date: 2026-07-08
+extracted_date: 2026-07-09
 jurisdiction: Austria
 description: Brief information on a ministerial draft concerning the strengthening of player protection, combating illegal gambling, and financing player protection and market observation in Austria.
 regulatory_body: Parliamentary Directorate
@@ -45,13 +45,11 @@ In addition to the legally binding restrictions, the strengthening of personal r
 
 Internal - Intellectual Property
 
-legally secured opportunity for self-limitation. The increase in the self-imposed limits is to be subject to a waiting period of 72 hours in order to prevent impulsive behaviour and to reduce the
+legally secured opportunity for self-limitation. The increase in the self-imposed limits is to be subject to a waiting period of 72 hours in order to prevent impulsive behaviour and to reduce the self-control.
 
 www.parlament.gv.at
 
 2 of 2 125/ME XXVIII GP - Ministerial draft - Brief information
-
-self-control.
 
 ## Editor
 
@@ -74,6 +72,7 @@ Parliamentary Directorate
 This document was sealed electronically.
 
 Information on how to check the electronic seal and the printout can be found at:
+
 https://www.parlament.gv.at/siegel
 
 www.parlament.gv.at
