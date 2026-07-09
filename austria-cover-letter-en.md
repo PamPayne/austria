@@ -1,12 +1,12 @@
 ---
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Cover Letter EN.pdf
 country: Austria
-document_name: Austria Cover Letter EN.pdf
+document_name: Austria Cover Letter EN
 source_file: Austria Cover Letter EN.pdf
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Cover Letter EN.pdf
-extracted_date: 2026-07-08
+extracted_date: 2026-07-09
 jurisdiction: Austria
-description: Cover letter from the Federal Ministry of Finance transmitting the draft Gambling Reform Act 2026 and requesting comments by 15 July 2026.
+description: Cover letter for the ministerial draft expert opinion process regarding the Gambling Reform Act 2026 and amendments to the Gambling Act and Telecommunications Act 2021.
 regulatory_body: Federal Ministry of Finance
 ---
 
@@ -20,40 +20,27 @@ bmf.gv.at
 
 BMF - I/8 (I/8)
 
-According to the distributor  
+According to the distributor
+
 Johannesgasse 5, 1010 Vienna
 
-Please send e-mail replies, quoting the business  
-number, to  
+Please send e-mail replies, quoting the business number, to  
 post.gluecksspielmonopol@bmf.gv.at to judge
 
 **Business number:** 2026-0.536.360
 
 ## Expert opinion - Gambling Reform Act 2026 - Federal Act amending the Gambling Act and the Telecommunications Act 2021
 
-The Federal Ministry of Finance shall submit the attached draft with the  
-Request for any comments by 15. July 2026. If no opinion, it is assumed that there  
-are no concerns.
+The Federal Ministry of Finance shall submit the attached draft with the Request for any comments by 15. July 2026. If no opinion, it is assumed that there are no concerns.
 
-Comments in electronic form are requested to be sent exclusively to the  
-Internet address e-recht@bmf.gv.at . Furthermore, it is requested that the written  
-Statements can also be submitted to the Presidium of the National Council in electronic  
-form via the website Ministerial Drafts | Parliament to make it available to Austria, and  
-the federal ministries concerned are requested to use the ELAK interface for this purpose.
+Comments in electronic form are requested to be sent exclusively to the Internet address e-recht@bmf.gv.at. Furthermore, it is requested that the written Statements can also be submitted to the Presidium of the National Council in electronic form via the website Ministerial Drafts | Parliament to make it available to Austria, and the federal ministries concerned are requested to use the ELAK interface for this purpose.
 
 Vienna, 26 June 2026
 
 For the Federal Minister:  
-Mag.Dr. Angelika Schätz  
+Mag.Dr. Angelika Schätz
+
 Electronically manufactured
-
-# 125/ME XXVIII GP - Ministerial Draft - Cover Letter
-
-2 by 4
-
-Internal - Intellectual Property
-
-2 of 4
 
 ## Side dishes
 
@@ -158,8 +145,7 @@ alice.schogger@gesundheitsministerium.gv.at;
 
 ## Test Information
 
-Information on the verification of the electronic seal or the  
-electronic signature can be found at: https://www.signaturpruefung.gv.at
+Information on the verification of the electronic seal or the electronic signature can be found at: https://www.signaturpruefung.gv.at
 
 information on how to verify the printout, see: https://www.bmf.gv.at/verifizierung
 
