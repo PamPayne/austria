@@ -1,12 +1,12 @@
 ---
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Brief Info EN.pdf
 country: Austria
-document_name: Austria Brief Info EN.pdf
+document_name: Austria Brief Info EN
 source_file: Austria Brief Info EN.pdf
-source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Brief Info EN.pdf
-extracted_date: 2026-07-10
+source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory%20Repository/Rest%20of%20World/Austria/1.%20Legislation/Austria%20Brief%20Info%20EN.pdf
+extracted_date: 2026-07-13
 jurisdiction: Austria
-description: Brief information on a ministerial draft concerning reform of gambling regulation, player protection, and combating illegal gambling in Austria.
+description: Brief information on a ministerial draft concerning the strengthening of player protection, combating illegal gambling, and financing player protection and market observation in Austria.
 regulatory_body: Parliamentary Directorate
 ---
 
