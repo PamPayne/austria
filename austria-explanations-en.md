@@ -4,10 +4,10 @@ country: Austria
 document_name: Austria Explanations EN.pdf
 source_file: Austria Explanations EN.pdf
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Explanations EN.pdf
-extracted_date: 2026-07-10
+extracted_date: 2026-07-13
 jurisdiction: Austria
-description: Explanatory notes to a ministerial draft amending the Austrian Gambling Act, covering online gambling reform, player protection, supervision, and licensing.
-regulatory_body: Federal Minister of Finance
+description: Explanatory notes to a ministerial draft amending the Austrian Gambling Act, covering online gambling reform, player protection, enforcement, supervision, and transitional provisions.
+regulatory_body: Austrian Parliament
 ---
 
 # 125/ME XXVIII GP - Ministerial draft - Explanatory notes
@@ -86,7 +86,7 @@ At the same time, the obligations and liability provisions to ensure player prot
 extended to online gambling. This is also intended to take into account the case law of the Constitutional  
 Court, as most recently in the judgment of 14 December 2022, G 259/2022, by prescribing the legal  
 obligation to monitor problematic gambling behaviour with the possibility of taking legal action before  
-civil courts for all types of games of chance (player protection monitoring).
+civil courts for all types of games of chance (**player protection monitoring**).
 
 As a further measure, effective deposit limits for online gambling and for national draws with gambling  
 machines will be introduced. The legal restriction of the maximum deposit amounts is intended to provide  
@@ -158,12 +158,7 @@ Internal - Intellectual Property
 running costs for operation in full by the concessionaires and licence holders in accordance with §§ 5 and  
 21 GSpG and at the same time to enable further or new development.
 
-### Re § 2 (3), § 4 (6), § 5 (7) nos. 7 and 10, § 14 (1), (3), (5) and (6), § 15 (1) and (2), § 15a, § 16 (1) and
-(15), § 18 (1), (3) to (5), § 19 (1), (4) to (8), § 21 (1), (3), (6) and (9), § 23, § 24 (1) and (2), § 24a, § 26
-(2) and (3), § 28 (2), § 30 (1), (3) to (5), § 31 (1), (3) to (6), § 31b (6), (9) to (11), § 31c (2) (1), (3) (1), §
-31e (1) and (2), § 31f (1) to (4), § 36 (3), § 37, § 40 (2), § 48 (2), § 52b(1) and (3), § 52c(1) and (3), §
-52e, § 52f, § 56(2) and § 60(46) (reorganisation of the gambling supervisory authority and transitional
-provision):
+### Re § 2 (3), § 4 (6), § 5 (7) nos. 7 and 10, § 14 (1), (3), (5) and (6), § 15 (1) and (2), § 15a, § 16 (1) and (15), § 18 (1), (3) to (5), § 19 (1), (4) to (8), § 21 (1), (3), (6) and (9), § 23, § 24 (1) and (2), § 24a, § 26 (2) and (3), § 28 (2), § 30 (1), (3) to (5), § 31 (1), (3) to (6), § 31b (6), (9) to (11), § 31c (2) (1), (3) (1), § 31e (1) and (2), § 31f (1) to (4), § 36 (3), § 37, § 40 (2), § 48 (2), § 52b(1) and (3), § 52c(1) and (3), § 52e, § 52f, § 56(2) and § 60(46) (reorganisation of the gambling supervisory authority and transitional provision):
 
 The adjustments are made in preparation for the reorganisation of gambling supervision planned in the  
 government programme; these are essentially the adjustments of the names of the authorities from the  
@@ -182,8 +177,7 @@ throughout Germany and also limits the maximum permissible ratio to one gaming m
 inhabitants in the Province of Vienna. This measure leads to a further sustainable reduction in the number  
 of games of chance available in Austria.
 
-### Re § 5 para. 4 nos. 8 to 11, § 5 para. 5 nos. 1 to 3 and 6, § 16 para. 15, § 26 para. 3 (gambling addiction
-potential analyses, information on gambling behaviour, stake and win limits, cooling-off phase):
+### Re § 5 para. 4 nos. 8 to 11, § 5 para. 5 nos. 1 to 3 and 6, § 16 para. 15, § 26 para. 3 (gambling addiction potential analyses, information on gambling behaviour, stake and win limits, cooling-off phase):
 
 This amendment is intended to extend the obligation for federal licence holders to carry out analyses of the  
 potential for gambling addiction, some of which are subject to notices, to the entire gambling sector.  
@@ -238,10 +232,9 @@ or by a separate area protected from view.
 
 The adjustments are due to the restructuring of the advertising regulations.
 
-### Regarding § 12a, § 13, § 16 (7), § 17 (3) (7), § 31c (3) (2) and (3), § 57 (1) to (4), § 59 (1), (2) and (4), §
-60 (50) (online gambling, video lottery terminals, multi-stage draws):
+### Regarding § 12a, § 13, § 16 (7), § 17 (3) (7), § 31c (3) (2) and (3), § 57 (1) to (4), § 59 (1), (2) and (4), § 60 (50) (online gambling, video lottery terminals, multi-stage draws):
 
-The term **"electronic lotteries"** is to be replaced by **"online gambling"**.
+The term "electronic lotteries" is to be replaced by "**online gambling**".
 
 In order to increase the standards of player protection, the due diligence obligations already applicable to  
 visitors to casinos and state gaming machines pursuant to Section 25 (3) are to be extended to online  
@@ -273,12 +266,12 @@ drafting error.
 
 ### Re § 14 (Transfer of certain lotteries):
 
-### Re para. 1 first sentence, para. 2 no. 3, para. 4 no. 1 (Certain lotteries):
+#### Re para. 1 first sentence, para. 2 no. 3, para. 4 no. 1 (Certain lotteries):
 
 The purpose of the amendment is to establish that the right to organise the lotteries pursuant to Paragraphs  
-6 to 12a (Certain lotteries) may be transferred by granting a single licence.
+6 to 12a (**Certain lotteries**) may be transferred by granting a single licence.
 
-### Re para. 1 second sentence, para. 2 no. 3, para. 4 no. 1 (online gambling):
+#### Re para. 1 second sentence, para. 2 no. 3, para. 4 no. 1 (online gambling):
 
 The realignment is intended to determine that the right to conduct online gambling (§ 13) is no longer to  
 be tied to the operation of certain lotteries (§§ 6 to 12a) and that the lottery and online gambling market,  
@@ -321,7 +314,7 @@ of the merger of all applicants into an administrative procedure community onlin
 correspondingly complex, the licences for the operation of online gambling (§ 13) will in future be granted  
 on an ongoing basis in a one-party procedure (application and authorisation procedure).
 
-### Re paras. 2a and 2b as well as para. 3:
+#### Re paras. 2a and 2b as well as para. 3:
 
 § 14.2a GSpG is aimed at gambling groups that have organised prohibited lotteries (without an Austrian  
 gambling licence) for the purpose of participating in Germany and have thereby unjustifiably interfered  
@@ -341,7 +334,7 @@ applicant in the context of the organisation of prohibited lotteries has not com
 with existing final performance judgments of domestic civil courts against it or has not yet paid or has not  
 yet paid in full gambling taxes that are due and not yet time-barred (Section 57 (2)). Finally, it is also  
 clarified that the maintenance of an unlawful gambling offer for the period from 1 January 2027 and the re-  
-issuance of licences for the organisation of online gambling ("cooling-off period") is associated with a  
+issuance of licences for the organisation of online gambling ("**cooling-off period**") is associated with a  
 blocking period of 18 months and 24 months respectively. During this blocking period, a successful  
 application for the grant of a licence is not possible and is intended to ensure that providers without an  
 Austrian gambling licence cease their offer before this date.
@@ -428,8 +421,8 @@ expression of interest. On the other hand, a declaration of conformity must incl
 The applicant for the concession and its group or the owner of a relevant trademark or sign will continue to  
 meet relevant tax and judicial debts in a timely manner (until the concession is granted). Finally, the licence  
 applicant must also confirm in the declaration of conformity that he or the owner of a relevant trademark  
-or sign has no longer organised any prohibited games of chance within the legally enshrined **"cooling-off  
-period"** or within the **"blocking period"**. The correctness of this declaration is also to be punishable (§ 52  
+or sign has no longer organised any prohibited games of chance within the legally enshrined "**cooling-off  
+period**" or within the "**blocking period**". The correctness of this declaration is also to be punishable (§ 52  
 para. 1 no. 11 GSpG).
 
 The Disclosure by the Concession applicants and Publication by the  
@@ -437,7 +430,7 @@ Gambling supervisory authority is intended to make it possible for objectively i
 conformity to be unmasked as such in a timely manner by allowing affected persons (plaintiffs to whom no  
 payment has been made despite the force of res judicata) to provide appropriate information.
 
-**"All group companies"** is to be understood comprehensively, i.e. also means subsidiaries and sister  
+"All group companies" is to be understood comprehensively, i.e. also means subsidiaries and sister  
 companies in Germany and abroad, and all legal entities that stand between the licence applicant and the  
 beneficial owner. As a rule, it will be possible to dispense with publication of the beneficial owner, since
 
@@ -468,11 +461,11 @@ authority are likely to shake confidence in the integrity and reliability of a l
 depending on the stage of the proceedings at which such things emerge, either the preferential treatment  
 under the last sentence of § 14.2a GSpG should not occur, or the concession should be withdrawn. If it turns  
 out that the licence applicant or a trademark or trademark owner attributable to him has organised prohibited  
-games of chance during the relevant period ("cooling-off period" or "blocking period"), contrary to the  
+games of chance during the relevant period ("**cooling-off period**" or "**blocking period**"), contrary to the  
 declaration of conformity issued, this will result in the non-grant or withdrawal of the licence. These legal  
 consequences should not occur only in minor cases.
 
-The fact that the violation may only be **"minor"** means that a strict standard must be applied. However, for  
+The fact that the violation may only be "minor" means that a strict standard must be applied. However, for  
 example, a negative individual case concerning a sister company (in which the concession weaver has only  
 a limited or only indirect opportunity to see and exert influence) does not need to stand in the way of the  
 granting of a licence.
@@ -494,18 +487,20 @@ fraction of those situations that could potentially be subsumed under § 14.2 no
 In other words, the scope of application of the lex generalis remains largely untouched.
 
 This means that any other violations of the GSpG and violations of other relevant legal provisions must be taken into  
-account unchanged when assessing whether an applicant for a concession has complied with the  
+account unchanged when assessing whether an applicant for a concession has complied with the
+
+8 of 26  
 requirements of regulatory reliability within the meaning of § 14.2 no. 4 GSpG. Just not violations of § 52  
 para. 2 no. 1 GSpG in the form of organising online gambling for participation from Germany.
 
-Any facts that occur after the concession has been granted are not **"in the past"** within the meaning of this  
+Any facts that occur after the concession has been granted are not "in the past" within the meaning of this  
 provision. In addition, the licence applicant and his group are only held liable until the licence is granted.  
 After this date, the fact that the applicant for the concession or his group of companies are either not honest  
 for tax purposes or do not immediately comply with final civil judgments would have to be assessed  
 according to general principles (already de lege lata) in the light of § 14.2 no. 4 GSpG in conjunction with  
 § 14.7.
 
-### Re para. 3:
+#### Re para. 3:
 
 As already mentioned, attempts are to be observed, especially by foreign gambling operators, to evade the  
 fulfilment of final civil judgments, which is partly due to the fact that they retreat behind obstacles to  
@@ -525,13 +520,12 @@ interested party are not enforceable in the country of residence of the interest
 
 The new paragraph 3 clarifies that all records relevant to tax law must be available in Germany at all times.  
 This is indispensable because an official chain of supervision within the meaning of subsection (2), even  
-under ideal conditions, leads to a loss of time that can have decisive negative effects in tax law proceedings.
-
-The phrase **"to be kept ready for retrieval"** is intended to take into account the fact that online gambling  
+under ideal conditions, leads to a loss of time that can have decisive negative effects in tax law proceedings.  
+The phrase "to be kept ready for retrieval" is intended to take into account the fact that online gambling  
 may be organised with the help of servers that are not located in Germany. In this case, at least  
 comprehensive access to the records kept on these servers must be guaranteed at all times.
 
-### Re para. 4:
+#### Re para. 4:
 
 In the sense of a strictly regulated system, which is intended in particular to ensure the protection of players  
 and the prevention of gambling addiction, the duration of the licence for online gambling is limited to a  
@@ -554,7 +548,7 @@ in force. For example, the licence notice must stipulate with a corresponding an
 licence holder must comply with Austrian labour law and safeguard the employees' rights of co-  
 determination.
 
-### Re para. 6:
+#### Re para. 6:
 
 This provision clarifies that even in the single-party proceedings for the grant of a licence for the operation  
 of online games of chance (§ 13), it must be agreed by decision whether the licence applicant will be  
@@ -568,7 +562,7 @@ accordance with all requirements).
 
 ### Re § 14 (4) and § 16 (14) (distribution):
 
-With the amendment, the term **"tobacco wear business"**, which originated from the Tobacco Monopoly Act  
+With the amendment, the term "tobacco wear business", which originated from the Tobacco Monopoly Act  
 1968 (TabMG 1968) and is no longer in use, is adapted to the terminology of the Tobacco Monopoly Act  
 1996 (TabMG 1996).
 
