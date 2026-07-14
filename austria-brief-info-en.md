@@ -1,12 +1,12 @@
 ---
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Brief Info EN.pdf
 country: Austria
-document_name: Austria Brief Info EN
+document_name: Austria Brief Info EN.pdf
 source_file: Austria Brief Info EN.pdf
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory%20Repository/Rest%20of%20World/Austria/1.%20Legislation/Austria%20Brief%20Info%20EN.pdf
-extracted_date: 2026-07-13
+extracted_date: 2026-07-14
 jurisdiction: Austria
-description: Brief information on a ministerial draft concerning the strengthening of player protection, combating illegal gambling, and financing player protection and market observation in Austria.
+description: Brief information on a ministerial draft concerning the reform of online gambling regulation, player protection, and measures against illegal gambling in Austria.
 regulatory_body: Parliamentary Directorate
 ---
 
@@ -31,7 +31,7 @@ Internal - Intellectual Property
 - Combating illegal terrestrial gambling
 - Financing of player protection and market observation
 
-### Main aspects of the draft
+## Main aspects of the draft
 
 In order to counter the problem of a growing illegal offer, a new regulation of the online gambling market in Austria is to be carried out according to the model of international best practice examples. The reform is intended to create a strictly regulated licensing system for online gambling. Under the new framework conditions, several providers in Austria will be able to offer online gambling in the future. This amendment is intended to create an online gambling offer that can be used to ensure a high level of channelling into the legal market and the highest possible standard of player protection.
 
@@ -53,28 +53,23 @@ www.parlament.gv.at
 
 self-control.
 
-### Editor
+Editor: oesterreich.gv.at
 
-oesterreich.gv.at
+Last update: 29.06.2026
 
-### Last update
-
-29.06.2026
-
-### Signatories
+## Signatories
 
 Parliamentary Directorate
 
-### Date/Time UTC
+## Date/Time UTC
 
 2026-06-29T14:22:11+02:00
 
-### Test Information
+## Test Information
 
 This document was sealed electronically.
 
 Information on how to check the electronic seal and the printout can be found at:
-
 https://www.parlament.gv.at/siegel
 
 www.parlament.gv.at
