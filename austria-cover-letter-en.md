@@ -4,9 +4,9 @@ country: Austria
 document_name: Austria Cover Letter EN.pdf
 source_file: Austria Cover Letter EN.pdf
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Cover Letter EN.pdf
-extracted_date: 2026-07-13
+extracted_date: 2026-07-14
 jurisdiction: Austria
-description: Cover letter for the ministerial draft of the Gambling Reform Act 2026 amending the Gambling Act and the Telecommunications Act 2021, including submission instructions, distribution list, and electronic signature information.
+description: Cover letter from the Federal Ministry of Finance regarding the expert opinion process for the Gambling Reform Act 2026 and amendments to the Gambling Act and the Telecommunications Act 2021.
 regulatory_body: Federal Ministry of Finance
 ---
 
