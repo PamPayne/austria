@@ -4,27 +4,27 @@ country: Austria
 document_name: Austria Brief Info EN.pdf
 source_file: Austria Brief Info EN.pdf
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory%20Repository/Rest%20of%20World/Austria/1.%20Legislation/Austria%20Brief%20Info%20EN.pdf
-extracted_date: 2026-07-14
+extracted_date: 2026-07-15
 jurisdiction: Austria
-description: Brief information on a ministerial draft concerning the reform of online gambling regulation, player protection, and measures against illegal gambling in Austria.
+description: Brief information on a ministerial draft concerning strengthening player protection, combating illegal gambling, and financing player protection and market observation in Austria.
 regulatory_body: Parliamentary Directorate
 ---
 
-# 125/ME XXVIII GP - Ministerial draft - Brief information 1 of 2
+# Brief information
 
 Internal - Intellectual Property
 
-## Brief information
+125/ME XXVIII GP - Ministerial draft - Brief information 1 of 2
 
 ## Brief information
 
-### Objectives
+## Objectives
 
 - Strengthening player protection
 - Combating illegal gambling
 - Support for player protection and market observation
 
-### Contents
+## Contents
 
 - Strengthening player protection in legal gambling
 - Combating illegal online gambling
@@ -49,11 +49,15 @@ legally secured opportunity for self-limitation. The increase in the self-impose
 
 www.parlament.gv.at
 
-## 2 of 2 125/ME XXVIII GP - Ministerial draft - Brief information
+2 of 2 125/ME XXVIII GP - Ministerial draft - Brief information
 
 self-control.
 
+## Editor
+
 Editor: oesterreich.gv.at
+
+## Last update
 
 Last update: 29.06.2026
 
@@ -69,7 +73,7 @@ Parliamentary Directorate
 
 This document was sealed electronically.
 
-Information on how to check the electronic seal and the printout can be found at:
+Information on how to check the electronic seal and the printout can be found at:  
 https://www.parlament.gv.at/siegel
 
 www.parlament.gv.at
