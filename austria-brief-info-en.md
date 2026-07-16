@@ -3,10 +3,10 @@ source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory R
 country: Austria
 document_name: Austria Brief Info EN.pdf
 source_file: Austria Brief Info EN.pdf
-source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory%20Repository/Rest%20of%20World/Austria/1.%20Legislation/Austria%20Brief%20Info%20EN.pdf
-extracted_date: 2026-07-15
+source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Brief Info EN.pdf
+extracted_date: 2026-07-16
 jurisdiction: Austria
-description: Brief information on a ministerial draft concerning strengthening player protection, combating illegal gambling, and financing player protection and market observation in Austria.
+description: Brief information on a ministerial draft concerning gambling reform in Austria, including player protection, combating illegal gambling, and financing of player protection and market observation.
 regulatory_body: Parliamentary Directorate
 ---
 
@@ -55,11 +55,11 @@ self-control.
 
 ## Editor
 
-Editor: oesterreich.gv.at
+oesterreich.gv.at
 
 ## Last update
 
-Last update: 29.06.2026
+29.06.2026
 
 ## Signatories
 
@@ -73,7 +73,8 @@ Parliamentary Directorate
 
 This document was sealed electronically.
 
-Information on how to check the electronic seal and the printout can be found at:  
+Information on how to check the electronic seal and the printout can be found at:
+
 https://www.parlament.gv.at/siegel
 
 www.parlament.gv.at
