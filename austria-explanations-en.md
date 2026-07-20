@@ -3,21 +3,22 @@ source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory R
 country: Austria
 document_name: Austria Explanations EN.pdf
 source_file: Austria Explanations EN.pdf
-source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Explanations EN.pdf
-extracted_date: 2026-07-17
+source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory%20Repository/Rest%20of%20World/Austria/1.%20Legislation/Austria%20Explanations%20EN.pdf
+extracted_date: 2026-07-20
 jurisdiction: Austria
-description: Explanatory notes to a ministerial draft amending the Austrian Gambling Act, addressing online gambling reform, player protection, enforcement, and supervisory reorganisation.
-regulatory_body: Austrian Federal Ministry of Finance
+description: Explanatory notes to a ministerial draft amending the Austrian Gambling Act, covering online gambling reform, player protection, supervision, and licensing.
+regulatory_body: Austrian Parliament
 ---
 
 # 125/ME XXVIII GP - Ministerial draft - Explanatory notes
 
 1 by 25  
 www.parlament.gv.at  
-Internal - Intellectual Property  
+Internal - Intellectual Property
+
 1 of 26
 
-## Explanations
+# Explanations
 
 ## I. General part
 
@@ -69,7 +70,8 @@ The competence of the Federation to enact this Federal Act results from Article 
 
 The financial contribution to support player protection is to be expanded to include funds from legal online gambling, and the tasks of the player protection office are to be explicitly expanded
 
-3 of 26  
+3 of 26
+
 are based on market observation, which is an essential cornerstone for the evaluation of player protection measures.
 
 ### Re § 2 para. 3 and § 21 para. 10 (connection costs):
@@ -104,7 +106,8 @@ As further building blocks to improve player protection, the maximum permissible
 
 The use of video content that warns of the risks of gambling is also intended to protect players, as graphic warnings cause a higher perceived danger as well as greater personal concern compared to pure text warnings, and videos are more likely to cause a higher level of personal concern.
 
-4 of 26  
+4 of 26
+
 promote deeper cognitive processing of the information conveyed. By linking the video content to the triggering of the cooling-off phase, a warning effect is also achieved that is adapted to the individual game situation of the respective player and thus personalized.
 
 The elimination of the formal distinction between Land lotteries with gaming machines in slot machine parlors and in individual installations is intended to ensure a clearly regulated and uniformly monitored offer throughout Germany. This is intended to extend the obligations and liability provisions to ensure player protection, which previously only applied to slot machine parlors, the legal requirement for the professionalisation of employees in the trained handling of gambling addiction and the legal obligation to participate in a cross-operator blocking register to all state lotteries with gaming machines. The spatial delimitation of participation in the game can be achieved either by a separate, appropriately marked room or by a separate area protected from view.
@@ -115,7 +118,7 @@ The adjustments are due to the restructuring of the advertising regulations.
 
 ### Regarding § 12a, § 13, § 16 (7), § 17 (3) (7), § 31c (3) (2) and (3), § 57 (1) to (4), § 59 (1), (2) and (4), § 60 (50) (online gambling, video lottery terminals, multi-stage draws):
 
-The term "electronic lotteries" is to be replaced by "online gambling".
+The term "**electronic lotteries**" is to be replaced by "**online gambling**".
 
 In order to increase the standards of player protection, the due diligence obligations already applicable to visitors to casinos and state gaming machines pursuant to Section 25 (3) are to be extended to online gambling.
 
@@ -157,7 +160,8 @@ With these accompanying measures, a de facto already existing part of the market
 
 In addition, the provision ensures that only those companies are granted access to the Austrian online gambling market that have adjusted their tax situation for the past and will continue to pay the planned gambling taxes in the future. In this context, (as
 
-6 of 26  
+6 of 26
+
 one-off effect) with additional budgetary results as a result of the planned voluntary disclosures (§ 29 FinStrG), which cannot be quantified further.
 
 Furthermore, aggrieved players, who in the past were often only able to enforce claims for repayment with considerable effort, are helped quickly and effectively. Only those providers who implement enforceable judgments of Austrian courts will have access to the strictly regulated online licensing system in the future.
@@ -184,7 +188,8 @@ When awarding the concession, the The Gambling Supervisory Authority therefore d
 
 On the one hand, the declaration of conformity includes an affidavit (declaration of knowledge) that all gambling taxes that have been due so far and that have not yet become time-barred have been paid and that all legally binding relevant performance obligations have been fulfilled in full at the time of the expression of interest. On the other hand, a declaration of conformity must include the promise that the
 
-7 of 26  
+7 of 26
+
 The applicant for the concession and its group or the owner of a relevant trademark or sign will continue to meet relevant tax and judicial debts in a timely manner (until the concession is granted). Finally, the licence applicant must also confirm in the declaration of conformity that he or the owner of a relevant trademark or sign has no longer organised any prohibited games of chance within the legally enshrined "cooling-off period" or within the "blocking period". The correctness of this declaration is also to be punishable (§ 52 para. 1 no. 11 GSpG).
 
 The Disclosure by the Concession applicants and Publication by the Gambling supervisory authority is intended to make it possible for objectively incorrect declarations of conformity to be unmasked as such in a timely manner by allowing affected persons (plaintiffs to whom no payment has been made despite the force of res judicata) to provide appropriate information.
@@ -213,7 +218,8 @@ In other words, the scope of application of the lex generalis remains largely un
 
 This means that any other violations of the GSpG and violations of other relevant legal provisions must be taken into account unchanged when assessing whether an applicant for a concession has complied with the
 
-8 of 26  
+8 of 26
+
 requirements of regulatory reliability within the meaning of § 14.2 no. 4 GSpG. Just not violations of § 52 para. 2 no. 1 GSpG in the form of organising online gambling for participation from Germany.
 
 Any facts that occur after the concession has been granted are not "in the past" within the meaning of this provision. In addition, the licence applicant and his group are only held liable until the licence is granted. After this date, the fact that the applicant for the concession or his group of companies are either not honest for tax purposes or do not immediately comply with final civil judgments would have to be assessed according to general principles (already de lege lata) in the light of § 14.2 no. 4 GSpG in conjunction with § 14.7.
@@ -242,7 +248,7 @@ This provision clarifies that even in the single-party proceedings for the grant
 
 ### Re § 14 (4) and § 16 (14) (distribution):
 
-With the amendment, the term "tobacco wear business", which originated from the Tobacco Monopoly Act 1968 (TabMG 1968) and is no longer in use, is adapted to the terminology of the Tobacco Monopoly Act 1996 (TabMG 1996).
+With the amendment, the term "tobacco wear business", which originated from the Tobacco Monopoly Act 1968 (**TabMG 1968**) and is no longer in use, is adapted to the terminology of the Tobacco Monopoly Act 1996 (**TabMG 1996**).
 
 The provision of § 16.14 provides that tobacconists are primarily used for the sale of lottery products, whereby the proven preference for tobacconists is to be retained for socio-political reasons. This adaptation is intended to ensure that tobacco shops in particular remain the primary terrestrial distribution channel for lottery products in the future.
 
