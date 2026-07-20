@@ -1,10 +1,10 @@
 ---
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Cover Sheet EN.pdf
 country: Austria
-document_name: Austria Cover Sheet EN.pdf
+document_name: Austria Cover Sheet EN
 source_file: Austria Cover Sheet EN.pdf
-source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory%20Repository/Rest%20of%20World/Austria/1.%20Legislation/Austria%20Cover%20Sheet%20EN.pdf
-extracted_date: 2026-07-17
+source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Cover Sheet EN.pdf
+extracted_date: 2026-07-20
 jurisdiction: Austria
 description: Ministerial draft leaflet and impact assessment for the Gambling Reform Act 2026, amending the Gambling Act and the Telecommunications Act 2021.
 regulatory_body: Federal Ministry of Finance
@@ -61,19 +61,13 @@ in € thousand
 | Net financing SVTträger | 0 | 0 | 0 | 0 | 0 |
 | Total net funding | 0 | 20.380 | 120.456 | 155.523 | 170.592 |
 
-2 by 18 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
-
-www.parlament.gv.at
-
-Internal - Intellectual Property
-
-### Relationship with European Union legislation
+## Relationship with European Union legislation
 
 The envisaged regulations do not fall within the scope of European Union law
 
 2 of 18
 
-### Special features of the standard-making procedure
+## Special features of the standard-making procedure
 
 Completed information procedure in accordance with the Notification Act or the Directive implemented by it
 
@@ -96,9 +90,9 @@ Last updated: 25.06.2026
 Contribution to:
 
 - Objective: To ensure the uniformity of tax collection and to strengthen the Tax morale. (Subdivision 15 Financial Administration - Federal Estimate 2026)
-  - Measure: Maintenance of tax audit and control measures in the areas of tax and customs
+  - o Measure: Maintenance of tax audit and control measures in the areas of tax and customs
 - Objective: Securing the financial interests of the Republic of Austria and the European Union and protecting honest taxpayers and honest business (combating fraud). (Subdivision 15 Financial Administration - Federal Estimate 2026)
-  - Action: Nationwide Implementation by gambling controls, Illegal employment controls and other financial police controls (anti-fraud)
+  - o Action: Nationwide Implementation by gambling controls, Illegal employment controls and other financial police controls (anti-fraud)
 
 ## Problem analysis
 
@@ -108,15 +102,13 @@ In order to counter the problem of a growing illegal offer, a new regulation of 
 
 In order to be able to effectively counter illegal offers, a package of measures is to be issued to tighten enforcement against illegal and thus unregulated gambling. This mainly affects the online sector, but tighter enforcement
 
-125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment 3 by 18
+## 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment 3 by 18
 
 www.parlament.gv.at
 
 Internal - Intellectual Property
 
-measures are also planned for the terrestrial sector. In addition to the new regulation of online gambling, the further development and raising of the Austrian player protection standards, which are very high by international standards, in accordance with current scientific findings, is also a 3 out of 18
-
-further focus of the reform. The planned adjustments are also intended to ensure the coherence of the Austrian gambling monopoly under EU law.
+measures are also planned for the terrestrial sector. In addition to the new regulation of online gambling, the further development and raising of the Austrian player protection standards, which are very high by international standards, in accordance with current scientific findings, is also a 3 out of 18 further focus of the reform. The planned adjustments are also intended to ensure the coherence of the Austrian gambling monopoly under EU law.
 
 ### Null scenario and possible alternatives
 
@@ -150,7 +142,7 @@ Description of the destination:
 
 In accordance with the requirements of the government programme 2025-2029, player protection in gambling is to be strengthened and thus problematic gambling behaviour is to be countered.
 
-4 by 18 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
+## 4 by 18 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
 
 www.parlament.gv.at
 
@@ -166,14 +158,14 @@ Implementation by:
 
 What does success look like:
 
-**Indicator 1 [milestone]: Implementation of player protection requirements**
+#### Indicator 1 [milestone]: Implementation of player protection requirements
 
 Baseline: 2026-01-12  
 Target state: 2030-12-31
 
-There are rules in place to protect gambling participants who contribute to Gambling addiction and existence-threatening gambling behaviour as far as possible.
-
-The existing player protection requirements have been enshrined in law. The Federal concessionaires and state-licensed have established internal company processes and measures to implement them.
+|  |  |
+|---|---|
+| There are rules in place to protect gambling participants who contribute to and Gambling addiction and existence-threatening gambling behaviour as far as possible. | The existing player protection requirements have been enshrined in law. The Federal concessionaires and state-licensed have established internal company processes and measures to implement them. |
 
 ### Objective 2: Combating illegal gambling
 
@@ -188,7 +180,7 @@ Implementation by:
 
 What does success look like:
 
-**Indicator 1 [Milestone]: New powers and enforcement rules**
+#### Indicator 1 [Milestone]: New powers and enforcement rules
 
 Baseline: 2026-01-12
 
@@ -204,7 +196,7 @@ Description of the destination:
 
 The financing of support for player protection and market observation is to be ensured.
 
-125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment 5 by 18
+## 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment 5 by 18
 
 www.parlament.gv.at
 
@@ -216,7 +208,7 @@ Implementation by:
 
 What does success look like:
 
-**Indicator 1 [Key figure]: Financing contribution according to § 1 para. 4 of the Gambling Act (GSpG) from online gambling**
+#### Indicator 1 [Key figure]: Financing contribution according to § 1 para. 4 of the Gambling Act (**GSpG**) from online gambling
 
 Baseline state 2026: €0.00 thousand  
 Target state 2030: €592.00 thousand
@@ -239,7 +231,7 @@ The authorisation to issue ordinances on a responsible standard for gambling adv
 
 Player protection will be expanded in the area of legal online gambling. The obligation to conduct consultations/obtain credit information in the event of problematic gambling behaviour, which already applies to the area of automated gambling and casinos, and the associated liability, is to be extended to the online sector.
 
-As a further player protection measure, cross-provider deposit limits are defined, compliance with which in the online sector is to be ensured by a cross-operator register (**limit register**). This register is to be implemented by an ordinance of the Federal Minister of Finance, which has yet to be issued.
+As a further player protection measure, cross-provider deposit limits are defined, compliance with which in the online sector is to be ensured by a cross-operator register (limit register). This register is to be implemented by an ordinance of the Federal Minister of Finance, which has yet to be issued.
 
 Due to the necessary protection of legitimate expectations, certain measures to strengthen player protection with regard to state-licensed slot machine gambling, online gambling, lotteries and casinos will only come into force with effect from 1 January 2031. The effect of these measures lies outside the observation period of the impact-oriented impact assessment (2026-2030) and is therefore not taken into account.
 
@@ -255,7 +247,7 @@ Description of the measure:
 
 A blocking order procedure will be introduced to block illegal gambling offers on the Internet and the public will be informed and increasingly educated about illegal gambling offers by means of a blacklist and information and
 
-6 by 18 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
+## 6 by 18 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
 
 www.parlament.gv.at
 
@@ -291,7 +283,7 @@ Implementation of:
 
 - Goal 3: Support player protection and market observation
 
-125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment 7 by 18
+## 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment 7 by 18
 
 www.parlament.gv.at
 
@@ -327,9 +319,14 @@ in € thousand
 | of which municipalities | 64.633 | 0 | 1.812 | 15.705 | 21.746 | 25.370 |
 | of which SV carriers | 0 | 0 | 0 | 0 | 0 | 0 |
 
-#### Financing budget – total for the first five years (in € thousand)
+#### Financing budget – Information about the first 5 years
 
-Information about the first 5 years are set out in the appendix.
+Total for the years  
+Ersten  
+than  
+Find  
+five years (in € thousand)  
+are set out in the appendix.
 
 in € thousand
 
@@ -342,7 +339,7 @@ in € thousand
 | of which SV carriers | 0 | 0 | 0 | 0 | 0 | 0 |
 | Payouts | 0 | 0 | 0 | 0 | 0 | 0 |
 
-8 by 18 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
+## 8 by 18 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
 
 www.parlament.gv.at
 
@@ -370,17 +367,15 @@ Explanation
 
 The information on those affected is approximate values determined by the Federal Ministry of Finance on the basis of the following data sources: "Representative survey on consumption and behaviour with addictive potential. Results on Gambling and Betting, Health Austria (2021)" and "STATISTIK AUSTRIA, Statistics of the Population – (2021)". The information on participation in sports betting and betting on e-sports, which takes place at least once a year, was taken into account. The possibility of giving multiple answers about participation in the surveyed forms of betting in the context of the survey for the representative survey must be taken into account when interpreting the approximate values given. On the basis of these approximations, the amounts relating to the estimated impact on tax revenue were also determined.
 
-### Incentive effects of the tax or tax instrument
-
-### Effects on the percentage difference in actual disposable income of women and men
-
-### Effects on the physical and/or mental health of women and men
+- Incentive effects of the tax or tax instrument
+- Effects on the percentage difference in actual disposable income of women and men
+- Effects on the physical and/or mental health of women and men
 
 ### Number of women and men affected by the proposed regulation
 
 It is assumed that theoretically* around 330,000 women and 770,000 men benefit from the extensions of player protection every year.
 
-125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment 9 by 18
+## 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment 9 by 18
 
 www.parlament.gv.at
 
@@ -409,34 +404,30 @@ The extension of the assessment basis of the financing contribution pursuant to 
 
 ### Quantitative effects due to taxes/fees/levies or subsidies
 
-| Number of Be | Affected Description | Affected /Discharge | Total | Explanation |
+Number of Be
+
+| Affected | Description | Affected /Discharge | Total | Explanation |
 |---|---|---:|---:|---|
 | Affected group | Federal Concession när (lotteries), in the year 2028 | 1 | 456.000 | 456.000 |
 | Affected group | Federal Concession när (lotteries), in 2029 | 1 | 522.000 | 522.000 |
+| Affected group | Federal Concession (lotteries), in the year 2030 | 1 | 592.000 | 592.000 |
 
-10 by 18 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
+## 10 by 18 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
 
 www.parlament.gv.at
 
 Internal - Intellectual Property
 
-| Number of Be | Affected Description | Affected /Discharge | Total | Explanation |
-|---|---|---:|---:|---|
-| Affected group | Federal Concession (lotteries), in the year 2030 | 1 | 592.000 | 592.000 |
-
 ### Impact on the cost and revenue structure
 
 - Participation in the blocking register: Participation in this blocking register is intended for Land lotteries with Gambling machines pursuant to § 5 **GSpG**, for online gambling pursuant to § 13 **GSpG** and for gaming machines in casinos pursuant to § 21 **GSpG** and causes corresponding running costs for the participation of the Land licensed or federal concessionaires concerned. These costs can only be quantified in the course of an ordinance of the Federal Minister of Finance, which has yet to be issued.
-
-10 of 18
-
-- Participation in the cross-operator deposit limit register (**limit register**): Participation in this blocking register is to be provided for concessionaires authorised to carry out online gambling within the meaning of § 13 and causes corresponding running costs for the providers concerned. These costs can only be quantified in the course of an ordinance of the Federal Minister of Finance, which has yet to be issued.
+- Participation in the cross-operator deposit limit register (limit register): Participation in this blocking register is to be provided for concessionaires authorised to carry out online gambling within the meaning of § 13 and causes corresponding running costs for the providers concerned. These costs can only be quantified in the course of an ordinance of the Federal Minister of Finance, which has yet to be issued.
 - Establishment and operation of safe servers: The licence holders authorised to carry out online gambling within the meaning of Section 13 shall be obliged to set up and operate a technical system at their own expense, which shall record all gaming operations for the purpose of monitoring compliance with the provisions of this Federal Act and shall enable direct access by the gambling supervisory authority at any time for the purpose of supervisory control activities. These costs can only be quantified in the course of an ordinance of the Federal Minister of Finance, which has yet to be issued.
 - blocking order procedure: The service providers incur personnel and material costs for the blocking websites with illegal gambling offers and the necessary Setup/expansion of technology. The cost of this is not quantifiable, as the time required to implement blocks can vary depending on the internal systems and processes of the respective service provider, and it is not known which service providers already have the necessary technology to do so. Enforcement practice has shown that prohibited lotteries in online gambling are largely provided on servers of hosting providers located abroad, which are the primary addressees of the blocking order proceedings. Guide If measures against these providers are not successful, the measures are directed against domestic access providers. Access providers with fewer than 2,000 subscribers are not affected by these measures due to the legal exemptions.
 - Payment blocks: Payment service providers incur personnel and material costs for carrying out payment blocks for payments to or from illegal gambling providers and the necessary setup/expansion of the technology. The cost of this cannot be quantified, as the time required to implement blocks can vary depending on the internal systems and processes of the respective payment provider and it is not known which providers already have the necessary technology to do so. Enforcement practice has shown that primarily digital payment providers and credit card providers are affected by the ordering of payment blocks. Payment account providers (banks), on the other hand, are affected by payment blocks to a much lesser extent.
 - Credit reports/consultations: By extending the obligation to obtain information from credit reports or conducting consultations in case of suspicion of existence-threatening Gambling behavior in the area of online gambling, increased personnel costs are to be expected. The number of additional credit reports and the effort associated with consultations are not known and therefore the corresponding costs cannot be quantified.
 
-125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment 11 by 18
+## 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment 11 by 18
 
 www.parlament.gv.at
 
@@ -472,7 +463,7 @@ A neutral trend is to be expected. Women and men are equally affected. However, 
 
 The range of legal gambling is restricted on the one hand by the abolition of video lottery terminals and on the other hand by the expansion of player protection. This affects around 1,100,000 people* every year who participate in games of chance at least once a year, as well as the two federal concessionaires and the currently six state-licensed providers (state draws with gaming machines according to § 5 **GSpG**).
 
-12 by 18 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
+## 12 by 18 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
 
 www.parlament.gv.at
 
@@ -486,7 +477,7 @@ By extending the protective provision of § 25.3 **GSpG** to legal online gambli
 
 ### Quantitative effects on the relationship between consumers and companies
 
-| Number of | Affected Description | Affected | Source/Explanation |
+| Affected | Description | Affected | Source/Explanation |
 |---|---|---:|---|
 | Affected group | Gambling consumers | 1.100.000 | Estimate: Approximate values calculated by the Federal Ministry of Finance on the basis of: Representative survey on consumption and behaviour with Addictive potential. Results on gambling and betting, Gesundheit Österreich (2021) and STATISTIK AUSTRIA, Statistics of the population (2021); persons who participate in games of chance at least once a year were taken into account |
 | Affected group | Federal Concessionaires | 2 |  |
@@ -500,7 +491,7 @@ Explanation:
 
 The expansion of player protection is intended to prevent gambling addiction-related behaviour and the resulting consequences (mental or psychosomatic illnesses, impairment of employment, sick leave, loss of job, delinquency, existential crises) can be counteracted.
 
-125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
+## 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
 
 www.parlament.gv.at
 
@@ -523,7 +514,7 @@ Corporation (figures in € thousand)
 | Municipalities |  | 1.812 | 15.705 | 21.746 | 25.370 |
 | Social security institutions |  |  |  |  |  |
 
-14 by 18 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
+## 14 by 18 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
 
 www.parlament.gv.at
 
@@ -531,13 +522,17 @@ Internal - Intellectual Property
 
 TOTAL
 
-20.380 120.456 155.523 170.592
+20.380  
+120.456  
+155.523  
+170.592
 
 14 of 18
 
 10.000.000,00 25.000.000,00 40.000.000,00
 
-Supplement Federal Government Financing contributions
+Supplement Federal Government  
+Financing contributions
 
 1 1
 
@@ -569,11 +564,11 @@ in € 2026 2027 2028 2029 2030
 
 | Description | Corporation | Qty | Yield | Qty | Yield | Qty | Yield | Qty | Yield | Qty | Yield |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Federal licence application |  |  |  | 1 | 2.380.000,00 |  |  |  |  |  |  |
-| Concession award Federal fees |  |  |  | 1 | 6.000.000,00 |  |  |  |  |  |  |
+| Federal licence application |  | 1 | 2.380.000,00 |  |  |  |  |  |  |  |  |
+| Concession award Federal fees |  | 1 | 6.000.000,00 |  |  |  |  |  |  |  |  |
 | Federal gambling tax |  | 1 | -3.000.000,00 | 1 | - | 1 | - | 1 | - |  |  |
 
-125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
+## 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
 
 www.parlament.gv.at
 
@@ -595,7 +590,7 @@ The information on revenues from concession application fees and concession awar
 
 In the context of the concession award procedures and for the implementation of the legally required evaluation of the measures, costs for external services are to be expected, which cannot be quantified in detail at present. However, the costs for the concession award procedure in this regard are incurred independently of the ggstl. legislative projects already on the basis of the existing legal situation and were therefore only cited in addition.
 
-16 by 18 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
+## 16 by 18 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
 
 www.parlament.gv.at
 
@@ -607,43 +602,37 @@ The same applies to the IT disbursements incurred in connection with the federal
 
 ## Materiality Disclosures
 
-In the opinion of the submitting entity, the following impact dimensions are not significantly affected by the project in question within the meaning of Annex 1 of the WFAG Principles Ordinance.
+In the opinion of the submitting entity, the following impact dimensions are not significantly affected by the project in question within the meaning of Annex 1 of the **WFAG Principles Ordinance**.
 
-Effectiveness Subdimension of the Materiality criterion dimension Impact dimension
+| Effectiveness dimension | Subdimension of the Impact dimension | Materiality criterion |
+|---|---|---|
 
 Internal - Intellectual Property
 
-125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment 17 of 18
+## 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment 17 of 18
 
 17 of 18
 
-18 by 18
+## 18 by 18
 
 Internal - Intellectual Property
 
 www.parlament.gv.at
 
-125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
+## 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
 
 18 of 18
 
 ## Document information
 
-Template version: V2.028
-
-Schema: BMF-S-WFA-v.1.24
-
-Tray version: 1
-
-Deploy: 3.0.26.RELEASE
-
-Date and time: 6/25/2026 3:03:34 PM
-
-WFA Version: 1.2
-
-OID: 5219
-
-A1|B2|C0|D0|E0|F0|G0|I0|M0
+- Template version: V2.028
+- Schema: BMF-S-WFA-v.1.24
+- Tray version: 1
+- Deploy: 3.0.26.RELEASE
+- Date and time: 6/25/2026 3:03:34 PM
+- WFA Version: 1.2
+- OID: 5219
+- A1\|B2\|C0\|D0\|E0\|F0\|G0\|I0\|M0
 
 ## Test Information
 
@@ -651,16 +640,10 @@ Information on the verification of the electronic seal or the electronic signatu
 
 information on how to verify the printout, see: https://www.bmf.gv.at/verifizierung
 
-Date/Time 2026-06-25T15:03:40+02:00
-
-Signatories Federal Ministry of Finance
-
-Exhibitor Certificate
-
-CN=a-sign-corporate-07,OU=a-sign-corporate-07,O=A-Trust Ges. f. Security systems in electr. Datenverkehr GmbH,C=AT
-
-Serial No. 874736968
-
-Document reference This document has been officially signed.
+- Date/Time 2026-06-25T15:03:40+02:00
+- Signatories Federal Ministry of Finance
+- Exhibitor Certificate CN=a-sign-corporate-07,OU=a-sign-corporate-07,O=A-Trust Ges. f. Security systems in electr. Datenverkehr GmbH,C=AT
+- Serial No. 874736968
+- Document reference This document has been officially signed.
 
 www.parlament.gv.at
