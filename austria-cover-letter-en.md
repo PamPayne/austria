@@ -1,12 +1,12 @@
 ---
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Cover Letter EN.pdf
 country: Austria
-document_name: Austria Cover Letter EN
+document_name: Austria Cover Letter EN.pdf
 source_file: Austria Cover Letter EN.pdf
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Cover Letter EN.pdf
-extracted_date: 2026-07-20
+extracted_date: 2026-07-21
 jurisdiction: Austria
-description: Cover letter for the ministerial draft concerning the Gambling Reform Act 2026 and amendments to the Gambling Act and the Telecommunications Act 2021.
+description: Cover letter from the Federal Ministry of Finance regarding the expert opinion process for the Gambling Reform Act 2026 and amendments to the Gambling Act and the Telecommunications Act 2021.
 regulatory_body: Federal Ministry of Finance
 ---
 
@@ -27,7 +27,7 @@ Please send e-mail replies, quoting the business
 number, to  
 post.gluecksspielmonopol@bmf.gv.at to judge
 
-Business number: 2026-0.536.360
+**Business number:** 2026-0.536.360
 
 ## Expert opinion - Gambling Reform Act 2026 - Federal Act amending the Gambling Act and the Telecommunications Act 2021
 
@@ -141,7 +141,8 @@ office.vaoe@aon.at; verband@gbv.at; sabine.kirchmayr@univie.ac.at;
 claus.staringer@wu.ac.at; recht@oebfa.at; office@stiftungsverband.at;  
 daniela.hohenwarter@univie.ac.at; behoerde@apab.gv.at; Post.vii-2@bka.gv.at;
 
-4 of 4  
+4 of 4
+
 pea@casinos.at; pea@lotterien.at; post.gluecksspielmonopol@bmf.gv.at;  
 office@admiral.at; office@e-e.ag; office@pa-ag.at; office@amatic.com; office@fgames.at;  
 office@panthergaming.at; post.a2@bgld.gv.at; abt7.gluecksspiel@ktn.gv.at;  
@@ -163,14 +164,14 @@ electronic signature can be found at: https://www.signaturpruefung.gv.at
 
 information on how to verify the printout, see: https://www.bmf.gv.at/verifizierung
 
-Date/Time 2026-06-29T10:04:43+02:00
+**Date/Time** 2026-06-29T10:04:43+02:00
 
-Signatories Federal Ministry of Finance
+**Signatories** Federal Ministry of Finance
 
-Exhibitor Certificate  
+**Exhibitor Certificate**  
 CN=a-sign-corporate-07,OU=a-sign-corporate-07,O=A-Trust Ges. f. Security systems in electr. Datenverkehr  
 GmbH,C=AT
 
-Serial No. 874736968
+**Serial No.** 874736968
 
-Document reference This document has been officially signed.
+**Document reference** This document has been officially signed.
