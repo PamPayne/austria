@@ -4,9 +4,9 @@ country: Austria
 document_name: Austria Cover Sheet EN.pdf
 source_file: Austria Cover Sheet EN.pdf
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Cover Sheet EN.pdf
-extracted_date: 2026-07-22
+extracted_date: 2026-07-23
 jurisdiction: Austria
-description: Ministerial draft leaflet and impact assessment for the Gambling Reform Act 2026, amending the Gambling Act and the Telecommunications Act 2021.
+description: Ministerial draft leaflet and impact assessment for the Gambling Reform Act 2026 amending the Gambling Act and the Telecommunications Act 2021.
 regulatory_body: Federal Ministry of Finance
 ---
 
@@ -58,7 +58,7 @@ in € thousand
 | Net funding from the Confederation | 0 | 15.406 | 77.344 | 95.829 | 100.950 |
 | Net financing countries | 0 | 3.162 | 27.407 | 37.948 | 44.272 |
 | Net financing municipalities | 0 | 1.812 | 15.705 | 21.746 | 25.370 |
-| Net financing SVTträger | 0 | 0 | 0 | 0 | 0 |
+| Net financing **SVTträger** | 0 | 0 | 0 | 0 | 0 |
 | Total net funding | 0 | 20.380 | 120.456 | 155.523 | 170.592 |
 
 2 by 18 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
@@ -67,13 +67,13 @@ www.parlament.gv.at
 
 Internal - Intellectual Property
 
-## Relationship with European Union legislation
+### Relationship with European Union legislation
 
 The envisaged regulations do not fall within the scope of European Union law
 
 2 of 18
 
-## Special features of the standard-making procedure
+### Special features of the standard-making procedure
 
 Completed information procedure in accordance with the Notification Act or the Directive implemented by it
 
@@ -81,12 +81,15 @@ Completed information procedure in accordance with the Notification Act or the D
 
 ### Gambling Reform Act 2026
 
-- Submitting body: Federal Ministry of Finance
-- Title of the project: Federal Act amending the Gambling Act and the Telecommunications Act 2021 is changed
-- Type of project: Law
-- Entry into force/effect: 2026
-- Year of creation: 2026
-- Last updated: 25.06.2026
+Submitting body: Federal Ministry of Finance
+
+Title of the project: Federal Act amending the Gambling Act and the Telecommunications Act 2021 is changed
+
+Type of project: Law  
+Entry into force/effect: 2026
+
+Year of creation: 2026  
+Last updated: 25.06.2026
 
 ### Contribution to impact objective or measure in the federal budget
 
@@ -121,7 +124,7 @@ Without the planned new regulation and the package of measures to tighten enforc
 
 | Title | Year | External link |
 |---|---:|---|
-| Representative survey on consumption and behaviour with Addictive potential. Results on Gambling and Betting, Health Austria (2021) | 2021 | https://www.sozialministerium.gv.at/Services/Studien.html |
+| Representative survey on consumption and behaviour with Addictive potential. Results on Gambling and Betting, Health Austria (2021) | 2021 | https://www.sozialminist erium.gv.at/Services/Stu dien.html |
 
 ### Interoperability assessment in accordance with Article 3(1) of the Regulation for an Interoperable Europe
 
@@ -133,7 +136,7 @@ The Digi-Ready check has been carried out. This is available as a separate docum
 
 ### Internal evaluation
 
-- Date of internal evaluation: 2031
+Date of internal evaluation: 2031
 
 2031 was chosen as the year of the internal evaluation, as it can be assumed that the impact of the project to be achieved by then will have occurred to a sufficient extent for the evaluation.
 
@@ -161,12 +164,14 @@ Internal - Intellectual Property
 
 #### What does success look like:
 
-- Indicator 1 [milestone]: Implementation of player protection requirements
+Indicator 1 [milestone]: Implementation of player protection requirements
 
-|  |  |
-|---|---|
-| Baseline: 2026-01-12 | Target state: 2030-12-31 |
-| There are rules in place to protect gambling participants who contribute to and Gambling addiction and existence-threatening gambling behaviour as far as possible. | The existing player protection requirements have been enshrined in law. The Federal concessionaires and state-licensed have established internal company processes and measures to implement them. |
+Baseline: 2026-01-12  
+Target state: 2030-12-31
+
+There are rules in place to protect gambling participants who contribute to and Gambling addiction and existence-threatening gambling behaviour as far as possible.
+
+The existing player protection requirements have been enshrined in law. The Federal concessionaires and state-licensed have established internal company processes and measures to implement them.
 
 ### Objective 2: Combating illegal gambling
 
@@ -181,12 +186,15 @@ According to the requirements of the government program 2025-2029, the illegal g
 
 #### What does success look like:
 
-- Indicator 1 [Milestone]: New powers and enforcement rules
+Indicator 1 [Milestone]: New powers and enforcement rules
 
-|  |  |
-|---|---|
-| Baseline: 2026-01-12 | Target state: 2030-12-31 |
-| The Gambling Act contains powers and enforcement regulations as a basis for combating illegal gambling. | The existing powers and Enforcement regulations in the terrestrial sector have been tightened up and allow for more effective application by the competent authorities. The new powers and Enforcement regulations for the online sector enable effective action against illegal gambling providers on the Internet to protect against unauthorised offers. |
+Baseline: 2026-01-12
+
+The Gambling Act contains powers and enforcement regulations as a basis for combating illegal gambling.
+
+Target state: 2030-12-31
+
+The existing powers and Enforcement regulations in the terrestrial sector have been tightened up and allow for more effective application by the competent authorities. The new powers and Enforcement regulations for the online sector enable effective action against illegal gambling providers on the Internet to protect against unauthorised offers.
 
 ### Goal 3: Support player protection and market observation
 
@@ -206,7 +214,7 @@ Internal - Intellectual Property
 
 #### What does success look like:
 
-- Indicator 1 [Key figure]: Financing contribution according to § 1 para. 4 of the Gambling Act (**GSpG**) from online gambling
+Indicator 1 [Key figure]: Financing contribution according to § 1 para. 4 of the Gambling Act (**GSpG**) from online gambling
 
 Baseline state 2026: €0.00 thousand  
 Target state 2030: €592.00 thousand
@@ -305,21 +313,21 @@ in € thousand
 | of which the federal government | 289.529 | 0 | 15.406 | 77.344 | 95.829 | 100.950 |
 | of which countries | 112.789 | 0 | 3.162 | 27.407 | 37.948 | 44.272 |
 | of which municipalities | 64.633 | 0 | 1.812 | 15.705 | 21.746 | 25.370 |
-| of which SV carriers | 0 | 0 | 0 | 0 | 0 | 0 |
+| of which **SV carriers** | 0 | 0 | 0 | 0 | 0 | 0 |
 | Expenses | 0 | 0 | 0 | 0 | 0 | 0 |
 | of which the federal government | 0 | 0 | 0 | 0 | 0 | 0 |
 | of which countries | 0 | 0 | 0 | 0 | 0 | 0 |
 | of which municipalities | 0 | 0 | 0 | 0 | 0 | 0 |
-| of which SV carriers | 0 | 0 | 0 | 0 | 0 | 0 |
+| of which **SV carriers** | 0 | 0 | 0 | 0 | 0 | 0 |
 | Net income | 466.951 | 0 | 20.380 | 120.456 | 155.523 | 170.592 |
 | of which the federal government | 289.529 | 0 | 15.406 | 77.344 | 95.829 | 100.950 |
 | of which countries | 112.789 | 0 | 3.162 | 27.407 | 37.948 | 44.272 |
 | of which municipalities | 64.633 | 0 | 1.812 | 15.705 | 21.746 | 25.370 |
-| of which SV carriers | 0 | 0 | 0 | 0 | 0 | 0 |
+| of which **SV carriers** | 0 | 0 | 0 | 0 | 0 | 0 |
 
 #### Financing budget – Total for the first five years (in € thousand)
 
-Information about the first 5 years Ersten than Find five years are set out in the appendix.
+Information about the first 5 years are set out in the appendix.
 
 in € thousand
 
@@ -329,7 +337,7 @@ in € thousand
 | of which the federal government | 289.529 | 0 | 15.406 | 77.344 | 95.829 | 100.950 |
 | of which countries | 112.789 | 0 | 3.162 | 27.407 | 37.948 | 44.272 |
 | of which municipalities | 64.633 | 0 | 1.812 | 15.705 | 21.746 | 25.370 |
-| of which SV carriers | 0 | 0 | 0 | 0 | 0 | 0 |
+| of which **SV carriers** | 0 | 0 | 0 | 0 | 0 | 0 |
 | Payouts | 0 | 0 | 0 | 0 | 0 | 0 |
 
 8 by 18 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
@@ -343,12 +351,12 @@ Internal - Intellectual Property
 | of which the federal government | 0 | 0 | 0 | 0 | 0 | 0 |
 | of which countries | 0 | 0 | 0 | 0 | 0 | 0 |
 | of which municipalities | 0 | 0 | 0 | 0 | 0 | 0 |
-| of which SV carriers | 0 | 0 | 0 | 0 | 0 | 0 |
+| of which **SV carriers** | 0 | 0 | 0 | 0 | 0 | 0 |
 | Net funding | 466.951 | 0 | 20.380 | 120.456 | 155.523 | 170.592 |
 | of which the federal government | 289.529 | 0 | 15.406 | 77.344 | 95.829 | 100.950 |
 | of which countries | 112.789 | 0 | 3.162 | 27.407 | 37.948 | 44.272 |
 | of which municipalities | 64.633 | 0 | 1.812 | 15.705 | 21.746 | 25.370 |
-| of which SV carriers | 0 | 0 | 0 | 0 | 0 | 0 |
+| of which **SV carriers** | 0 | 0 | 0 | 0 | 0 | 0 |
 
 8 of 18
 
@@ -399,7 +407,9 @@ The extension of the assessment basis of the financing contribution pursuant to 
 
 ### Quantitative effects due to taxes/fees/levies or subsidies
 
-| Affected Description | Number of Be Affected /Discharge | Total | Explanation |
+Number of Be
+
+| Affected Description | Affected /Discharge | Total | Explanation |
 |---|---:|---:|---|
 | Affected group Federal Concession när (lotteries), in the year 2028 | 1 | 456.000 | 456.000 |
 | Affected group Federal Concession när (lotteries), in 2029 | 1 | 522.000 | 522.000 |
@@ -473,7 +483,7 @@ By extending the protective provision of § 25.3 **GSpG** to legal online gambli
 
 ### Quantitative effects on the relationship between consumers and companies
 
-| Affected Description | Number of Affected | Source/Explanation |
+| Affected Description | Affected | Source/Explanation |
 |---|---:|---|
 | Affected group Gambling consumers | 1.100.000 | Estimate: Approximate values calculated by the Federal Ministry of Finance on the basis of: Representative survey on consumption and behaviour with Addictive potential. Results on gambling and betting, Gesundheit Österreich (2021) and STATISTIK AUSTRIA, Statistics of the population (2021); persons who participate in games of chance at least once a year were taken into account |
 | Affected group Federal Concessionaires | 2 |  |
@@ -524,26 +534,25 @@ TOTAL
 
 10.000.000,00 25.000.000,00 40.000.000,00
 
-Supplement Federal Government  
-Financing contributions
+Supplement Federal Government Financing contributions
 
-1 1
-
+1 1  
 1 456.000,00 1 522.000,00 1 592.000,00
 
-Federal concession fee  
-1
+Federal concession fee
 
-1 10.025.550,00 1 86.888.100,00 1 120.306.600,00 1 140.357.700,00
+1  
+1 10.025.550,00 1 86.888.100,00 1 120.306.600,0 0  
+1 140.357.700,0 0
 
-Concession fee countries  
-1
+Concession fee countries
 
+1  
 1 3.162.300,00 1 27.406.600,00 1 37.947.600,00 1 44.272.200,00
 
-Concession fee for municipalities  
-1
+Concession fee for municipalities
 
+1  
 1 1.812.150,00 1 15.705.300,00 1 21.745.800,00 1 25.370.100,00
 
 It is assumed that the discontinuation of video lottery terminals (**VLT**) as a form of offer will result in a channelling towards state-licensed lotteries with gaming machines and gaming machines in casinos to the same extent and that this will be revenue-neutral due to the equal treatment of these two forms of offer under tax law.
@@ -552,11 +561,11 @@ The increased enforcement measures against gambling offers on the Internet witho
 
 in €
 
-| Description Corporation | 2026 Qty | 2026 Yield | 2027 Qty | 2027 Yield | 2028 Qty | 2028 Yield | 2029 Qty | 2029 Yield | 2030 Qty | 2030 Yield |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Federal licence application |  |  | 1 | 2.380.000,00 |  |  |  |  |  |  |
-| Concession award Federal fees |  |  | 1 | 6.000.000,00 |  |  |  |  |  |  |
-| Federal gambling tax |  |  | 1 | -3.000.000,00 | 1 | - | 1 | - | 1 | - |
+| Description | Corporation | 2026 Qty | 2026 Yield | 2027 Qty | 2027 Yield | 2028 Qty | 2028 Yield | 2029 Qty | 2029 Yield | 2030 Qty | 2030 Yield |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Federal licence application |  |  |  | 1 | 2.380.000,00 |  |  |  |  |  |  |
+| Concession award Federal fees |  |  |  | 1 | 6.000.000,00 |  |  |  |  |  |  |
+| Federal gambling tax |  |  |  | 1 | -3.000.000,00 | 1 | - | 1 | - | 1 | - |
 
 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
 
@@ -578,7 +587,7 @@ Due to the extension of the assessment basis of the financing contribution to th
 
 The information on revenues from concession application fees and concession award fees is based on the fees provided for by law and the assumption that the granting of the lottery licence and the 13 casino licences will be applied for in full and that 20 providers will apply for the grant of an online licence concession. Due to the tender deadlines, the concession application fees will already be incurred in full in 2027; the Due to the shortened duration of the procedure, licence licence fees for online gambling will also be incurred in full as early as 2027. The Licence fees for lotteries and casinos were not presented due to the temporal uncertainty of the inflow (appeal proceedings).
 
-In the context of the concession award procedures and for the implementation of the legally required evaluation of the measures, costs for external services are to be expected, which cannot be quantified in detail at present. However, the costs for the concession award procedure in this regard are incurred independently of the ggstl. legislative projects already on the basis of the existing legal situation and were therefore only cited in addition.
+In the context of the concession award procedures and for the implementation of the legally required evaluation of the measures, costs for external services are to be expected, which cannot be quantified in detail at present. However, the costs for the concession award procedure in this regard are incurred independently of the **ggstl.** legislative projects already on the basis of the existing legal situation and were therefore only cited in addition.
 
 16 by 18 125/ME XXVIII GP - Ministerial Draft - Leaflet and Impact Assessment
 
@@ -594,7 +603,9 @@ The same applies to the IT disbursements incurred in connection with the federal
 
 In the opinion of the submitting entity, the following impact dimensions are not significantly affected by the project in question within the meaning of Annex 1 of the **WFAG Principles Ordinance**.
 
-Effectiveness Subdimension of the Materiality criterion  
+Effectiveness  
+Subdimension of the  
+Materiality criterion  
 dimension Impact dimension
 
 Internal - Intellectual Property
@@ -630,10 +641,11 @@ Information on the verification of the electronic seal or the electronic signatu
 
 information on how to verify the printout, see: https://www.bmf.gv.at/verifizierung
 
-- Date/Time: 2026-06-25T15:03:40+02:00
-- Signatories: Federal Ministry of Finance
-- Exhibitor Certificate: CN=a-sign-corporate-07,OU=a-sign-corporate-07,O=A-Trust Ges. f. Security systems in electr. Datenverkehr GmbH,C=AT
-- Serial No.: 874736968
-- Document reference: This document has been officially signed.
+- Date/Time 2026-06-25T15:03:40+02:00
+- Signatories Federal Ministry of Finance
+- Exhibitor Certificate
+  - CN=a-sign-corporate-07,OU=a-sign-corporate-07,O=A-Trust Ges. f. Security systems in electr. Datenverkehr GmbH,C=AT
+- Serial No. 874736968
+- Document reference This document has been officially signed.
 
 www.parlament.gv.at
