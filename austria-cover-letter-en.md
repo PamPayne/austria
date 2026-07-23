@@ -1,12 +1,12 @@
 ---
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Cover Letter EN.pdf
 country: Austria
-document_name: Austria Cover Letter EN
+document_name: Austria Cover Letter EN.pdf
 source_file: Austria Cover Letter EN.pdf
-source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Cover Letter EN.pdf
-extracted_date: 2026-07-22
+source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory%20Repository/Rest%20of%20World/Austria/1.%20Legislation/Austria%20Cover%20Letter%20EN.pdf
+extracted_date: 2026-07-23
 jurisdiction: Austria
-description: Cover letter for the ministerial draft on the Gambling Reform Act 2026 and amendments to the Gambling Act and the Telecommunications Act 2021.
+description: Cover letter from the Federal Ministry of Finance regarding the expert opinion process for the Gambling Reform Act 2026 and amendments to the Gambling Act and Telecommunications Act 2021.
 regulatory_body: Federal Ministry of Finance
 ---
 
@@ -47,9 +47,7 @@ For the Federal Minister:
 Mag.Dr. Angelika Schätz  
 Electronically manufactured
 
-## Side dishes
-
-125/ME XXVIII GP - Ministerial Draft - Cover Letter
+## 125/ME XXVIII GP - Ministerial Draft - Cover Letter
 
 2 by 4
 
@@ -57,7 +55,9 @@ Internal - Intellectual Property
 
 2 of 4
 
-### Distributor
+## Side dishes
+
+**Distributor**
 
 - einlaufstelle@bvwg.gv.at
 - post.begutachtung@bfg.gv.at
@@ -128,10 +128,11 @@ Internal - Intellectual Property
 - info@casinos.at
 - dsb@dsb.gv.at
 - office@rfte.at
-- kr-jur@okr-evang.at
+- kr-jur@okr-  
+  evang.at
 - office@handelsverband.at
 - office@landforstbetriebe.at
-- postingang.allgemein@sozialversicherung.at
+- posteingang.allgemein@sozialversicherung.at
 - erich.vranes@wu.ac.at
 - hubert.isak@unigraz.at
 - europarecht@jku.at
@@ -167,7 +168,7 @@ Internal - Intellectual Property
 
 3 of 4
 
-125/ME XXVIII GP - Ministerial Draft - Cover Letter
+## 125/ME XXVIII GP - Ministerial Draft - Cover Letter
 
 3 by 4
 
@@ -232,12 +233,14 @@ Internal - Intellectual Property
 - info@vaaoe.at
 - heidrun.maier-dekruijff@voewg.at
 - online.juridicum@univie.ac.at
-- rewi.dekanat@uni-graz.at
+- rewi.dekanat@uni-  
+  graz.at
 - dekanat-rechtswiss@uibk.ac.at
 - rw.dekanat@sbg.ac.at
 - silvia.manhart@tuwien.ac.at
 - sekretariat.grabenwarter@wuwien.ac.at
-- rewi@uni-klu.ac.at
+- rewi@uni-  
+  klu.ac.at
 - irene.konrad@boku.ac.at
 - jus@sfu.ac.at
 - c31000@uibk.ac.at
@@ -314,7 +317,7 @@ Internal - Intellectual Property
 - gewerbe@salzburg.gv.at
 - psv@stmk.gv.at
 
-125/ME XXVIII GP - Ministerial Draft - Cover Letter
+## 125/ME XXVIII GP - Ministerial Draft - Cover Letter
 
 4 by 4
 
