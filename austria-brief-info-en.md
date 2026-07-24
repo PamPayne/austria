@@ -1,12 +1,12 @@
 ---
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Brief Info EN.pdf
 country: Austria
-document_name: Austria Brief Info EN.pdf
+document_name: Austria Brief Info EN
 source_file: Austria Brief Info EN.pdf
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Brief Info EN.pdf
-extracted_date: 2026-07-23
+extracted_date: 2026-07-24
 jurisdiction: Austria
-description: Brief information on a ministerial draft concerning the strengthening of player protection, combating illegal gambling, and financing player protection and market observation in Austria.
+description: Brief information on a ministerial draft concerning the reform of online gambling regulation, player protection, and measures against illegal gambling in Austria.
 regulatory_body: Parliamentary Directorate
 ---
 
@@ -35,7 +35,11 @@ Internal - Intellectual Property
 
 In order to counter the problem of a growing illegal offer, a new regulation of the online gambling market in Austria is to be carried out according to the model of international best practice examples. The reform is intended to create a strictly regulated licensing system for online gambling. Under the new framework conditions, several providers in Austria will be able to offer online gambling in the future. This amendment is intended to create an online gambling offer that can be used to ensure a high level of channelling into the legal market and the highest possible standard of player protection.
 
-The newly regulated online market is to be flanked by a special **Blocking proceedings against providers of information society services** ("network blocking") and with provisions on payment blocking. These measures are intended to drastically complicate access to illegal online gambling offers and effectively prevent payment flows to and from illegal online providers.
+The newly regulated online market is to be flanked by a special
+
+### **Blocking proceedings against providers of information society services**
+
+("network blocking") and with provisions on payment blocking. These measures are intended to drastically complicate access to illegal online gambling offers and effectively prevent payment flows to and from illegal online providers.
 
 In addition to the new regulation of online gambling, the further development and raising of player protection standards in accordance with current scientific findings is also to form a further focus of the reform. The focus of the legal changes is on player-related measures.
 
@@ -55,32 +59,25 @@ self-control.
 
 ## Editor
 
-Editor: oesterreich.gv.at
+oesterreich.gv.at
 
 ## Last update
 
-Last update: 29.06.2026
+29.06.2026
 
 ## Signatories
-
-Signatories
 
 Parliamentary Directorate
 
 ## Date/Time UTC
 
-Date/Time UTC
-
 2026-06-29T14:22:11+02:00
 
 ## Test Information
 
-Test Information
-
 This document was sealed electronically.
 
 Information on how to check the electronic seal and the printout can be found at:
-
 https://www.parlament.gv.at/siegel
 
 www.parlament.gv.at
