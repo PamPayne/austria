@@ -1,12 +1,12 @@
 ---
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Cover Letter EN.pdf
 country: Austria
-document_name: Austria Cover Letter EN.pdf
+document_name: Austria Cover Letter EN
 source_file: Austria Cover Letter EN.pdf
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Austria/1. Legislation/Austria Cover Letter EN.pdf
-extracted_date: 2026-07-24
+extracted_date: 2026-07-27
 jurisdiction: Austria
-description: Cover letter from the Federal Ministry of Finance concerning the expert opinion process for the Gambling Reform Act 2026 and amendments to the Gambling Act and Telecommunications Act 2021.
+description: Cover letter to the ministerial draft concerning the Gambling Reform Act 2026 and amendments to the Gambling Act and Telecommunications Act 2021.
 regulatory_body: Federal Ministry of Finance
 ---
 
@@ -44,11 +44,10 @@ the federal ministries concerned are requested to use the ELAK interface for thi
 Vienna, 26 June 2026
 
 For the Federal Minister:  
-Mag.Dr. Angelika Schätz
-
+Mag.Dr. Angelika Schätz  
 Electronically manufactured
 
-## 125/ME XXVIII GP - Ministerial Draft - Cover Letter
+# 125/ME XXVIII GP - Ministerial Draft - Cover Letter
 
 2 by 4
 
@@ -96,7 +95,7 @@ s.blahut@gewerbeverein.at; grundsatz@oegb.at; office@oiav.at;
 
 3 of 4
 
-## 125/ME XXVIII GP - Ministerial Draft - Cover Letter
+# 125/ME XXVIII GP - Ministerial Draft - Cover Letter
 
 3 by 4
 
@@ -141,13 +140,14 @@ office.vaoe@aon.at; verband@gbv.at; sabine.kirchmayr@univie.ac.at;
 claus.staringer@wu.ac.at; recht@oebfa.at; office@stiftungsverband.at;  
 daniela.hohenwarter@univie.ac.at; behoerde@apab.gv.at; Post.vii-2@bka.gv.at;
 
-4 of 4  
+4 of 4
+
 pea@casinos.at; pea@lotterien.at; post.gluecksspielmonopol@bmf.gv.at;  
 office@admiral.at; office@e-e.ag; office@pa-ag.at; office@amatic.com; office@fgames.at;  
 office@panthergaming.at; post.a2@bgld.gv.at; abt7.gluecksspiel@ktn.gv.at;  
 post.ivw1@noel.gv.at; pol.ikd.post@ooe.gv.at; gewerbe@salzburg.gv.at; psv@stmk.gv.at;
 
-## 125/ME XXVIII GP - Ministerial Draft - Cover Letter
+# 125/ME XXVIII GP - Ministerial Draft - Cover Letter
 
 4 by 4
 
